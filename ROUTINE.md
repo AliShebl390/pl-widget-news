@@ -7,20 +7,15 @@ few searches and page fetches as you can.
 
 ## 1. Find the matches
 
-Get upcoming fixtures from the Fantasy Premier League API:
+Read `fixtures.json` in this repo. A GitHub Action refreshes it shortly before
+each run with the FPL fixtures kicking off in the next 4 days: each has the
+FPL fixture `id`, the `home` and `away` team names and the `kickoff` time
+(UTC). Don't try to reach the FPL API yourself; this sandbox can't.
 
-```
-curl -s "https://fantasy.premierleague.com/api/fixtures/?future=1"
-```
+If `generatedAt` is more than a day old, the Action didn't run: say so in your
+final message and stop without committing.
 
-If `curl` is blocked, use WebFetch on the same URL and ask for each fixture's
-`id`, `team_h`, `team_a` and `kickoff_time`.
-
-Keep only fixtures whose `kickoff_time` is within the next **4 days** (UTC).
-Team ids map to names in `teams.json` in this repo. Don't download
-`bootstrap-static` — it's huge and not needed.
-
-**If no fixture is in that window, stop here.** Don't search, don't commit.
+**If `fixtures` is empty, stop here.** Don't search, don't commit.
 
 ## 2. Research
 
