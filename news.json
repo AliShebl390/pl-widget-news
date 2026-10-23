@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:30:00Z",
+  "generatedAt": "2026-10-23T18:00:00Z",
   "matches": {
     "77": {
       "home": {
@@ -19,6 +19,25 @@
             "text": "we're hopeful that next weekend he'll be fully fit and ready to go.",
             "source": "Fantasy Football Scout",
             "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ]
+      },
+      "away": {
+        "summary": "Nottingham Forest get Morgan Gibbs-White back and Nikola Milenkovic is ready to start; they play with a three-man defence.",
+        "players": [
+          {
+            "name": "Morgan Gibbs-White",
+            "status": "returning",
+            "detail": "Back after missing the Arsenal defeat.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Nikola Milenkovic",
+            "status": "available",
+            "detail": "Ready to start.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
           }
         ]
       }
@@ -71,6 +90,39 @@
             "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
           }
         ]
+      },
+      "home": {
+        "summary": "Aston Villa face a late fitness test on Johan Manzambi, with Wan-Bissaka and Ruggeri absent.",
+        "players": [
+          {
+            "name": "Johan Manzambi",
+            "status": "doubtful",
+            "detail": "Faces a late fitness test.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Aaron Wan-Bissaka",
+            "status": "out",
+            "detail": "Absent for the City game.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Matteo Ruggeri",
+            "status": "out",
+            "detail": "Absent for the City game.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Ian Maatsen",
+            "status": "out",
+            "detail": "Hasn't played since mid-September, so Tyrone Mings may play left-back.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
       }
     },
     "74": {
@@ -104,6 +156,20 @@
             "detail": "Quad; misses out again.",
             "source": "Fantasy Football Scout",
             "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Loum Tchaouna",
+            "status": "doubtful",
+            "detail": "Was not in the squad last weekend.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Yann Gboho",
+            "status": "doubtful",
+            "detail": "Was not in the squad last weekend.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
           }
         ],
         "quotes": [
@@ -112,6 +178,32 @@
             "text": "He's still not with us out on the grass yet.",
             "source": "Fantasy Football Scout",
             "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ]
+      },
+      "away": {
+        "summary": "Fulham are likely unchanged but without the suspended Ryan Sessegnon; Emile Smith Rowe and Hugo Larsson appear available again.",
+        "players": [
+          {
+            "name": "Ryan Sessegnon",
+            "status": "suspended",
+            "detail": "Suspended.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Emile Smith Rowe",
+            "status": "returning",
+            "detail": "Appears available again.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Hugo Larsson",
+            "status": "returning",
+            "detail": "Appears available again.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
           }
         ]
       }
@@ -169,6 +261,369 @@
             "text": "he's back to himself, more or less.",
             "source": "Fantasy Football Scout",
             "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ]
+      },
+      "home": {
+        "summary": "Hull are expected to keep Lucas Herrington in for the injured Nobel Mendy, with Ryan Giles possibly returning.",
+        "players": [
+          {
+            "name": "Nobel Mendy",
+            "status": "out",
+            "detail": "Injured; Lucas Herrington expected to continue in his place.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Ryan Giles",
+            "status": "returning",
+            "detail": "May return.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Robinio Vaz",
+            "status": "available",
+            "detail": "Has trained all week.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      }
+    },
+    "71": {
+      "home": {
+        "summary": "Arsenal will be without Bukayo Saka for some time; Piero Hincapie is available.",
+        "players": [
+          {
+            "name": "Bukayo Saka",
+            "status": "out",
+            "detail": "Will be without him for some time.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Christos Tzolis",
+            "status": "out",
+            "detail": "Still out.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Piero Hincapie",
+            "status": "available",
+            "detail": "Available.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      },
+      "away": {
+        "summary": "David Moyes says Everton have their share of availability issues but is keeping details quiet.",
+        "players": []
+      }
+    },
+    "73": {
+      "home": {
+        "summary": "Mike Penders is set to replace the injured Emiliano Martinez in goal; Jorrel Hato keeps his place with Pep Chavarria injured.",
+        "players": [
+          {
+            "name": "Emiliano Martinez",
+            "status": "out",
+            "detail": "Injured; Mike Penders replaces him in goal.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Pep Chavarria",
+            "status": "out",
+            "detail": "Injured; Jorrel Hato keeps his spot.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      },
+      "away": {
+        "summary": "Spurs have Destiny Udogie out and Rodrigo Bentancur suspended; James Maddison's fitness is unclear.",
+        "players": [
+          {
+            "name": "Destiny Udogie",
+            "status": "out",
+            "detail": "Out.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Rodrigo Bentancur",
+            "status": "suspended",
+            "detail": "Suspended.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "James Maddison",
+            "status": "doubtful",
+            "detail": "Fitness unclear; may start on the bench.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Pedro Porro",
+            "status": "available",
+            "detail": "Available.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Andy Robertson",
+            "status": "available",
+            "detail": "Available.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      }
+    },
+    "75": {
+      "home": {
+        "summary": "Palace have doubts over Jorgen Strand Larsen, who limped off midweek, and goalkeeper Dean Henderson; Axel Disasi returns from suspension.",
+        "players": [
+          {
+            "name": "Jorgen Strand Larsen",
+            "status": "doubtful",
+            "detail": "Limped off midweek.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Dean Henderson",
+            "status": "doubtful",
+            "detail": "Back training; Pierre Sage says he 'will see' about availability.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Quentin Timber",
+            "status": "out",
+            "detail": "Injured.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Axel Disasi",
+            "status": "returning",
+            "detail": "Back from suspension.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      },
+      "away": {
+        "summary": "Newcastle have Dan Burn, Amar Dedic and William Osula back in training; Anthony Elanga is fit only for the bench.",
+        "players": [
+          {
+            "name": "Dan Burn",
+            "status": "returning",
+            "detail": "Back in training.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Amar Dedic",
+            "status": "returning",
+            "detail": "Back in training.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "William Osula",
+            "status": "returning",
+            "detail": "Back in training.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Anthony Elanga",
+            "status": "doubtful",
+            "detail": "Fit only for the bench.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Matias Fernandez-Pardo",
+            "status": "out",
+            "detail": "Illness.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      }
+    },
+    "78": {
+      "home": {
+        "summary": "Liverpool get Ryan Gravenberch back from suspension but Dominik Szoboszlai and Jeremie Frimpong are out.",
+        "players": [
+          {
+            "name": "Ryan Gravenberch",
+            "status": "returning",
+            "detail": "Returns from suspension.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Dominik Szoboszlai",
+            "status": "out",
+            "detail": "Out.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Jeremie Frimpong",
+            "status": "out",
+            "detail": "Out.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Victor Munoz",
+            "status": "doubtful",
+            "detail": "Described as a major doubt.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Bradley Barcola",
+            "status": "available",
+            "detail": "Absence described as workload management, not injury.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      },
+      "away": {
+        "summary": "Brighton are expected to be unchanged; Diego Gomez and Maxim De Cuyper were rested, not injured.",
+        "players": [
+          {
+            "name": "Diego Gomez",
+            "status": "available",
+            "detail": "Rested, not injured.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Maxim De Cuyper",
+            "status": "available",
+            "detail": "Rested, not injured.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      }
+    },
+    "79": {
+      "home": {
+        "summary": "Man Utd have fitness doubts over Marcus Rashford, Ayden Heaven and Lisandro Martinez; Matthijs De Ligt returned midweek.",
+        "players": [
+          {
+            "name": "Marcus Rashford",
+            "status": "doubtful",
+            "detail": "Fitness doubt.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Ayden Heaven",
+            "status": "doubtful",
+            "detail": "Fitness doubt.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Lisandro Martinez",
+            "status": "doubtful",
+            "detail": "Fitness doubt.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Matthijs De Ligt",
+            "status": "returning",
+            "detail": "Returned midweek.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      },
+      "away": {
+        "summary": "Bournemouth could be without Ben Gannon-Doak and Bafode Diakite; Junior Kroupi may get his first minutes this season.",
+        "players": [
+          {
+            "name": "Ben Gannon-Doak",
+            "status": "doubtful",
+            "detail": "Could miss out.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Bafode Diakite",
+            "status": "doubtful",
+            "detail": "Could miss out.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      }
+    },
+    "80": {
+      "home": {
+        "summary": "Sunderland are without suspended Kevin Danso and Wilson Isidor; Brian Brobbey may be ready but a start is uncertain.",
+        "players": [
+          {
+            "name": "Kevin Danso",
+            "status": "suspended",
+            "detail": "Suspended.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Wilson Isidor",
+            "status": "out",
+            "detail": "Absent.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Brian Brobbey",
+            "status": "doubtful",
+            "detail": "May be ready, but starting is uncertain.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          }
+        ]
+      },
+      "away": {
+        "summary": "Leeds have major doubts over Dominic Calvert-Lewin, Anton Stach and Noah Okafor.",
+        "players": [
+          {
+            "name": "Dominic Calvert-Lewin",
+            "status": "doubtful",
+            "detail": "Major doubt.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Anton Stach",
+            "status": "doubtful",
+            "detail": "Major doubt.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
+          },
+          {
+            "name": "Noah Okafor",
+            "status": "doubtful",
+            "detail": "Major doubt.",
+            "source": "Premier League",
+            "url": "https://www.premierleague.com/en/news/4744431/predicted-line-ups-for-premier-league-teams-in-matchweek-8"
           }
         ]
       }
