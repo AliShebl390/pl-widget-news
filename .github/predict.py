@@ -56,15 +56,20 @@ def depth(pos):
     if p.startswith("DM") or p.startswith("CDM"): return 4
     if p.startswith("CM") or p in ("LM", "RM", "M"): return 5
     if p.startswith("AM") or p in ("LW", "RW"): return 6
-    if p.startswith("CF") or p in ("F", "ST", "LF", "RF"): return 7
+    # A paired forward (CF-L/CF-R) sits behind a lone central striker (F) when both are listed.
+    if p in ("CF-L", "CF-R", "LF", "RF"): return 7
+    if p.startswith("CF") or p in ("F", "ST"): return 8
     return 5
 
 
 def across(pos):
+    """Left to right: wide left, inside left, centre, inside right, wide right."""
     p = pos.upper()
-    if p.endswith("-L") or (p.startswith("L") and len(p) <= 3): return 0
-    if p.endswith("-R") or (p.startswith("R") and len(p) <= 3): return 2
-    return 1
+    if p.endswith("-L"): return 1
+    if p.endswith("-R"): return 3
+    if p.startswith("L") and len(p) <= 3: return 0
+    if p.startswith("R") and len(p) <= 3: return 4
+    return 2
 
 
 def lines(formation, starters):
@@ -145,8 +150,12 @@ class Availability:
         m = [e for e in cands if parts[-1] in norm(e["second_name"]).split() or norm(e["web_name"]) == parts[-1]]
         if len(m) == 1:
             return m[0]
-        m = [e for e in m if norm(e["first_name"]).split()[0] == parts[0]]
-        return m[0] if len(m) == 1 else None
+        first = [e for e in m if norm(e["first_name"]).split()[0] == parts[0]]
+        if len(first) == 1:
+            return first[0]
+        # Names written in a different order, e.g. ESPN "Fatawu Issahaku" vs FPL "Abdul Fatawu".
+        any_part = [e for e in cands if any(x in norm(e["second_name"]).split() or x == norm(e["web_name"]) for x in parts)]
+        return any_part[0] if len(any_part) == 1 else None
 
     def status(self, name, fpl_team):
         """('available'|'doubtful'|'out', chance, news)."""
