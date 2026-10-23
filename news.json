@@ -1,4 +1,177 @@
 {
-  "generatedAt": null,
-  "matches": {}
+  "generatedAt": "2026-10-23T17:30:00Z",
+  "matches": {
+    "77": {
+      "home": {
+        "summary": "Ipswich are without Sasa Lukic again, with the midfielder aiming to be back for the following weekend's game against Hull.",
+        "players": [
+          {
+            "name": "Sasa Lukic",
+            "status": "out",
+            "detail": "Groin; missed Gameweek 7 and is targeting a return against Hull City in Gameweek 9.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ],
+        "quotes": [
+          {
+            "speaker": "Gary O'Neil",
+            "text": "we're hopeful that next weekend he'll be fully fit and ready to go.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ]
+      }
+    },
+    "72": {
+      "away": {
+        "summary": "Manchester City have Erling Haaland fit, but Antoine Semenyo is out long term and three players are being assessed.",
+        "players": [
+          {
+            "name": "Erling Haaland",
+            "status": "available",
+            "detail": "Maresca says he is 100% available for the Aston Villa game.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Antoine Semenyo",
+            "status": "out",
+            "detail": "Knee; out until mid-December.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Matheus Nunes",
+            "status": "doubtful",
+            "detail": "To be assessed at the afternoon training session.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Mateo Kovacic",
+            "status": "doubtful",
+            "detail": "To be assessed at the afternoon training session.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Nico O'Reilly",
+            "status": "doubtful",
+            "detail": "Back issue; to be assessed at the afternoon training session.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ],
+        "quotes": [
+          {
+            "speaker": "Enzo Maresca",
+            "text": "I think Rayan, in this moment, is one of the best players in Europe when he's in the right position.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ]
+      }
+    },
+    "74": {
+      "home": {
+        "summary": "Coventry remain without four injured players, including Haji Wright.",
+        "players": [
+          {
+            "name": "Luke Woolfenden",
+            "status": "out",
+            "detail": "Knee; misses out again.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Aurele Amenda",
+            "status": "out",
+            "detail": "Calf; misses out again.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Josh Eccles",
+            "status": "out",
+            "detail": "Ankle; Lampard said he is not yet training on the grass.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Haji Wright",
+            "status": "out",
+            "detail": "Quad; misses out again.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ],
+        "quotes": [
+          {
+            "speaker": "Frank Lampard",
+            "text": "He's still not with us out on the grass yet.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ]
+      }
+    },
+    "76": {
+      "away": {
+        "summary": "Brentford are missing two midfielders through suspension after Gameweek 7 red cards, while Jannik Schuster returns.",
+        "players": [
+          {
+            "name": "Vitaly Janelt",
+            "status": "suspended",
+            "detail": "One-match ban after a Gameweek 7 red card.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Yehor Yarmolyuk",
+            "status": "suspended",
+            "detail": "Three-match ban after a Gameweek 7 red card.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Jannik Schuster",
+            "status": "returning",
+            "detail": "Back in the squad after an ankle problem and illness.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Antoni Milambo",
+            "status": "out",
+            "detail": "Knee; remains out.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Josh Dasilva",
+            "status": "out",
+            "detail": "Hamstring; remains out.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          },
+          {
+            "name": "Kaye Furo",
+            "status": "out",
+            "detail": "Knee; remains out.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ],
+        "quotes": [
+          {
+            "speaker": "Keith Andrews",
+            "text": "he's back to himself, more or less.",
+            "source": "Fantasy Football Scout",
+            "url": "https://www.fantasyfootballscout.co.uk/2026/10/22/fpl-gameweek-8-team-news-thursdays-live-injury-updates"
+          }
+        ]
+      }
+    }
+  }
 }
