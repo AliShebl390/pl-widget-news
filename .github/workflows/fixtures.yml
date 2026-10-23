@@ -22,13 +22,16 @@ jobs:
       - name: Check the next FPL deadline
         id: check
         run: python3 .github/fixtures.py ${{ inputs.force && '--force' || '' }}
-      - name: Commit fixtures
+      - name: Predict lineups
+        if: steps.check.outputs.run == 'true'
+        run: python3 .github/predict.py
+      - name: Commit fixtures and predicted lineups
         if: steps.check.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add fixtures.json state.json
-          git diff --cached --quiet || (git commit -m "Fixtures for GW${{ steps.check.outputs.event }}" && git push)
+          git add fixtures.json state.json predicted.json
+          git diff --cached --quiet || (git commit -m "Fixtures and predicted lineups for GW${{ steps.check.outputs.event }}" && git push)
       - name: Fire the Claude routine
         if: steps.check.outputs.run == 'true'
         env:

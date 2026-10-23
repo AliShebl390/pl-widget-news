@@ -79,13 +79,6 @@ where `TEAM` is:
 ```json
 {
   "summary": "One or two plain sentences on the team's situation.",
-  "predictedFormation": "4-3-3",
-  "predictedLineup": [
-    ["David Raya"],
-    ["Ben White", "William Saliba", "Gabriel Magalhães", "Riccardo Calafiori"],
-    ["Declan Rice", "Martín Zubimendi", "Martin Ødegaard"],
-    ["Bukayo Saka", "Viktor Gyökeres", "Gabriel Martinelli"]
-  ],
   "players": [
     {
       "name": "Bukayo Saka",
@@ -110,12 +103,6 @@ Rules:
 
 - Keys of `matches` are the FPL fixture `id` as a string.
 - Use players' full names as reported by the press.
-- `predictedLineup`: 11 players, goalkeeper first, then one array per line
-  from defence to attack; inside a line, order from the team's **left to
-  right** (left-back first). It must match `predictedFormation`. Base it on
-  the sources' predicted line-ups; if none exists, use the previous match's
-  starting XI adjusted for the team news. Omit both fields if you can't
-  support a prediction.
 - `status` is one of `out`, `doubtful`, `suspended`, `returning`, `available`.
   Only list players with real news (injuries, suspensions, doubts, returns).
 - At most 2 quotes per team, only genuine direct quotes.
@@ -123,10 +110,27 @@ Rules:
 
 Check the file parses (`python3 -m json.tool news.json > /dev/null`).
 
-## 4. Publish
+## 4. Check the predicted lineups
 
-Commit only `news.json` with the message `News for <dates covered>` and push
-to `main`.
+`predicted.json` already holds a predicted XI for every team, computed from
+each team's recent lineups and FPL availability (see `.github/predict.py`).
+Don't rebuild it. Only correct it where a source you read **in this run**
+clearly contradicts it — for example the manager confirmed a player is out,
+or a reliable outlet's predicted XI has a different player in a position.
 
-End with a one-line coverage count, e.g. "Covered 18/20 teams, 14 predicted
-lineups; missing: Hull (no current source), Coventry (no current source)".
+To swap a player, edit the team's `lineup` in place: replace the player's
+object with `{"espnId": "", "name": "<full name>", "shortName": "<initial.
+surname>", "jersey": "", "doubtful": false, "chance": null, "news": "",
+"returning": false}` in the same spot (keep the line structure and
+formation), and append to the team's `changes`:
+`{"in": "<name>", "out": "<name>", "kind": "news", "reason": "<short>",
+"source": "<outlet>", "url": "<link>"}`. Never change a lineup without a
+source. Check the file still parses.
+
+## 5. Publish
+
+Commit `news.json` (and `predicted.json` if you changed it) with the message
+`News for <dates covered>` and push to `main`.
+
+End with a one-line coverage count, e.g. "Covered 18/20 teams; 3 lineup
+corrections; missing: Hull (no current source)".

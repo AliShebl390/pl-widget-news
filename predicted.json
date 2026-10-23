@@ -1,0 +1,2713 @@
+{
+ "generatedAt": "2026-10-23T18:12:52Z",
+ "event": null,
+ "matches": {
+  "77": {
+   "home": {
+    "formation": "3-4-2-1",
+    "lineup": [
+     [
+      {
+       "espnId": "168746",
+       "name": "Christian Walton",
+       "shortName": "C. Walton",
+       "jersey": "28",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "291174",
+       "name": "Jacob Greaves",
+       "shortName": "J. Greaves",
+       "jersey": "24",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "230963",
+       "name": "Issa Diop",
+       "shortName": "I. Diop",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "243440",
+       "name": "Dara O'Shea",
+       "shortName": "D. O'Shea",
+       "jersey": "26",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "283086",
+       "name": "Leif Davis",
+       "shortName": "L. Davis",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "228393",
+       "name": "Exequiel Palacios",
+       "shortName": "E. Palacios",
+       "jersey": "25",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "336794",
+       "name": "Abdoul Ouattara",
+       "shortName": "A. Ouattara",
+       "jersey": "42",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "256607",
+       "name": "Florentino",
+       "shortName": "Florentino",
+       "jersey": "12",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "322654",
+       "name": "Emersonn",
+       "shortName": "Emersonn",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "286347",
+       "name": "Daizen Maeda",
+       "shortName": "D. Maeda",
+       "jersey": "38",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "20975",
+       "name": "Julio Enciso",
+       "shortName": "J. Enciso",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "lineup": [
+     [
+      {
+       "espnId": "179497",
+       "name": "Matz Sels",
+       "shortName": "M. Sels",
+       "jersey": "26",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "338894",
+       "name": "Murillo",
+       "shortName": "Murillo",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "343964",
+       "name": "Ousmane Diomande",
+       "shortName": "O. Diomande",
+       "jersey": "2",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "338876",
+       "name": "Jair Paula",
+       "shortName": "Jair Paula",
+       "jersey": "23",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "291638",
+       "name": "Neco Williams",
+       "shortName": "N. Williams",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "238886",
+       "name": "Xaver Schlager",
+       "shortName": "X. Schlager",
+       "jersey": "21",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "146679",
+       "name": "Daniel Muñoz",
+       "shortName": "D. Muñoz",
+       "jersey": "27",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "298518",
+       "name": "James McAtee",
+       "shortName": "J. McAtee",
+       "jersey": "24",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "307114",
+       "name": "Liam Delap",
+       "shortName": "L. Delap",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "243396",
+       "name": "Morgan Gibbs-White",
+       "shortName": "M. Gibbs-White",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": true
+      }
+     ],
+     [
+      {
+       "espnId": "275842",
+       "name": "Dan Ndoye",
+       "shortName": "D. Ndoye",
+       "jersey": "14",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Morgan Gibbs-White",
+      "out": "Nicolás Domínguez",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     }
+    ],
+    "basedOn": 5
+   }
+  },
+  "72": {
+   "home": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "265958",
+       "name": "Zion Suzuki",
+       "shortName": "Z. Suzuki",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "281125",
+       "name": "Ian Maatsen",
+       "shortName": "I. Maatsen",
+       "jersey": "22",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "181312",
+       "name": "Tyrone Mings",
+       "shortName": "T. Mings",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "234698",
+       "name": "Matty Cash",
+       "shortName": "M. Cash",
+       "jersey": "2",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "204679",
+       "name": "Victor Lindelöf",
+       "shortName": "V. Lindelöf",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "301524",
+       "name": "João Gomes",
+       "shortName": "J. Gomes",
+       "jersey": "35",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "250936",
+       "name": "Boubacar Kamara",
+       "shortName": "B. Kamara",
+       "jersey": "8",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "214375",
+       "name": "Emiliano Buendía",
+       "shortName": "E. Buendía",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "386992",
+       "name": "Johan Manzambi",
+       "shortName": "J. Manzambi",
+       "jersey": "44",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Calf injury - 75% chance of playing",
+       "returning": false
+      },
+      {
+       "espnId": "162843",
+       "name": "John McGinn",
+       "shortName": "J. McGinn",
+       "jersey": "7",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": true
+      }
+     ],
+     [
+      {
+       "espnId": "308524",
+       "name": "Nicolas Jackson",
+       "shortName": "N. Jackson",
+       "jersey": "11",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "John McGinn",
+      "out": "Alysson",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Ian Maatsen",
+      "out": "Aaron Wan-Bissaka",
+      "kind": "unavailable",
+      "reason": "Hamstring injury - Expected back 21 Nov"
+     }
+    ],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "217092",
+       "name": "Gianluigi Donnarumma",
+       "shortName": "G. Donnarumma",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "299910",
+       "name": "Josko Gvardiol",
+       "shortName": "J. Gvardiol",
+       "jersey": "24",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": true
+      },
+      {
+       "espnId": "265907",
+       "name": "Marc Guéhi",
+       "shortName": "M. Guéhi",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "303785",
+       "name": "Matheus Nunes",
+       "shortName": "M. Nunes",
+       "jersey": "27",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
+       "returning": false
+      },
+      {
+       "espnId": "234878",
+       "name": "Rúben Dias",
+       "shortName": "R. Dias",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "285450",
+       "name": "Enzo Fernández",
+       "shortName": "E. Fernández",
+       "jersey": "17",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": true
+      },
+      {
+       "espnId": "238472",
+       "name": "Elliot Anderson",
+       "shortName": "E. Anderson",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": true
+      }
+     ],
+     [
+      {
+       "espnId": "283672",
+       "name": "Jérémy Doku",
+       "shortName": "J. Doku",
+       "jersey": "11",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "298008",
+       "name": "Rayan Cherki",
+       "shortName": "R. Cherki",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": true
+      },
+      {
+       "espnId": "268641",
+       "name": "Iliman Ndiaye",
+       "shortName": "I. Ndiaye",
+       "jersey": "7",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "253989",
+       "name": "Erling Haaland",
+       "shortName": "E. Haaland",
+       "jersey": "9",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Rayan Cherki",
+      "out": "Phil Foden",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Enzo Fernández",
+      "out": "Ayyoub Bouaddi",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Elliot Anderson",
+      "out": "Mateo Kovacic",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Josko Gvardiol",
+      "out": "Nico O'Reilly",
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
+     }
+    ],
+    "basedOn": 5
+   }
+  },
+  "71": {
+   "home": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "196176",
+       "name": "David Raya",
+       "shortName": "D. Raya",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "298329",
+       "name": "Riccardo Calafiori",
+       "shortName": "R. Calafiori",
+       "jersey": "33",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "236322",
+       "name": "Gabriel Magalhães",
+       "shortName": "G. Magalhães",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "241077",
+       "name": "Ben White",
+       "shortName": "B. White",
+       "jersey": "4",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "231859",
+       "name": "Ezri Konsa",
+       "shortName": "E. Konsa",
+       "jersey": "15",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "352758",
+       "name": "Myles Lewis-Skelly",
+       "shortName": "M. Lewis-Skelly",
+       "jersey": "49",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": true
+      },
+      {
+       "espnId": "238262",
+       "name": "Declan Rice",
+       "shortName": "D. Rice",
+       "jersey": "41",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "251400",
+       "name": "Eberechi Eze",
+       "shortName": "E. Eze",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "203669",
+       "name": "Martin Ødegaard",
+       "shortName": "M. Ødegaard",
+       "jersey": "8",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "293236",
+       "name": "Noni Madueke",
+       "shortName": "N. Madueke",
+       "jersey": "20",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "231182",
+       "name": "Kai Havertz",
+       "shortName": "K. Havertz",
+       "jersey": "29",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Myles Lewis-Skelly",
+      "out": "Bruno Guimarães",
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
+     },
+     {
+      "in": "Noni Madueke",
+      "out": "Bukayo Saka",
+      "kind": "unavailable",
+      "reason": "Thigh injury - Unknown return date"
+     }
+    ],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "159443",
+       "name": "Jordan Pickford",
+       "shortName": "J. Pickford",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "262594",
+       "name": "Vitaliy Mykolenko",
+       "shortName": "V. Mykolenko",
+       "jersey": "16",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "286965",
+       "name": "Jarrad Branthwaite",
+       "shortName": "J. Branthwaite",
+       "jersey": "4",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "214402",
+       "name": "Ainsley Maitland-Niles",
+       "shortName": "A. Maitland-Niles",
+       "jersey": "2",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "155226",
+       "name": "James Tarkowski",
+       "shortName": "J. Tarkowski",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "276220",
+       "name": "James Garner",
+       "shortName": "J. Garner",
+       "jersey": "37",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "378458",
+       "name": "Harrison Armstrong",
+       "shortName": "H. Armstrong",
+       "jersey": "45",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "172850",
+       "name": "Jack Grealish",
+       "shortName": "J. Grealish",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "252389",
+       "name": "Kiernan Dewsbury-Hall",
+       "shortName": "K. Dewsbury-Hall",
+       "jersey": "8",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "291307",
+       "name": "Brennan Johnson",
+       "shortName": "B. Johnson",
+       "jersey": "22",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": true
+      }
+     ],
+     [
+      {
+       "espnId": "301166",
+       "name": "Thierno Barry",
+       "shortName": "T. Barry",
+       "jersey": "11",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Brennan Johnson",
+      "out": "Merlin Röhl",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     }
+    ],
+    "basedOn": 5
+   }
+  },
+  "74": {
+   "home": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "307069",
+       "name": "Carl Rushworth",
+       "shortName": "C. Rushworth",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "206172",
+       "name": "Jay Da Silva",
+       "shortName": "J. Da Silva",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "241093",
+       "name": "Ethan Pinnock",
+       "shortName": "E. Pinnock",
+       "jersey": "2",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "281139",
+       "name": "Milan van Ewijk",
+       "shortName": "M. van Ewijk",
+       "jersey": "27",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "303931",
+       "name": "Bobby Thomas",
+       "shortName": "B. Thomas",
+       "jersey": "4",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "191337",
+       "name": "Matt Grimes",
+       "shortName": "M. Grimes",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "387659",
+       "name": "Caleb Yirenkyi",
+       "shortName": "C. Yirenkyi",
+       "jersey": "8",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "240495",
+       "name": "Brandon Thomas-Asante",
+       "shortName": "B. Thomas-Asante",
+       "jersey": "23",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "286967",
+       "name": "Jack Rudoni",
+       "shortName": "J. Rudoni",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "302002",
+       "name": "Tatsuhiro Sakamoto",
+       "shortName": "T. Sakamoto",
+       "jersey": "7",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "246954",
+       "name": "Ephron Mason-Clark",
+       "shortName": "E. Mason-Clark",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": true
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Ephron Mason-Clark",
+      "out": "Sidiki Cherif",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     }
+    ],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "153765",
+       "name": "Bernd Leno",
+       "shortName": "B. Leno",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "222396",
+       "name": "Antonee Robinson",
+       "shortName": "A. Robinson",
+       "jersey": "33",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "263110",
+       "name": "Calvin Bassey",
+       "shortName": "C. Bassey",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "197163",
+       "name": "Timothy Castagne",
+       "shortName": "T. Castagne",
+       "jersey": "21",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "313230",
+       "name": "David Affengruber",
+       "shortName": "D. Affengruber",
+       "jersey": "22",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "324164",
+       "name": "Shea Charles",
+       "shortName": "S. Charles",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "218998",
+       "name": "Sander Berge",
+       "shortName": "S. Berge",
+       "jersey": "16",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "175063",
+       "name": "Alex Iwobi",
+       "shortName": "A. Iwobi",
+       "jersey": "17",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "409541",
+       "name": "Josh King",
+       "shortName": "J. King",
+       "jersey": "24",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "307111",
+       "name": "Oscar Bobb",
+       "shortName": "O. Bobb",
+       "jersey": "14",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "87297",
+       "name": "Gonzalo García",
+       "shortName": "G. García",
+       "jersey": "7",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [],
+    "basedOn": 5
+   }
+  },
+  "73": {
+   "home": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "158626",
+       "name": "Emiliano Martínez",
+       "shortName": "E. Martínez",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": 0,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "353951",
+       "name": "Jorrel Hato",
+       "shortName": "J. Hato",
+       "jersey": "21",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "296410",
+       "name": "Levi Colwill",
+       "shortName": "L. Colwill",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "368317",
+       "name": "Josh Acheampong",
+       "shortName": "J. Acheampong",
+       "jersey": "34",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "265918",
+       "name": "Maxence Lacroix",
+       "shortName": "M. Lacroix",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "127262",
+       "name": "Jordan Henderson",
+       "shortName": "J. Henderson",
+       "jersey": "14",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "289877",
+       "name": "Moisés Caicedo",
+       "shortName": "M. Caicedo",
+       "jersey": "25",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "265653",
+       "name": "Morgan Rogers",
+       "shortName": "M. Rogers",
+       "jersey": "17",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "296395",
+       "name": "Cole Palmer",
+       "shortName": "C. Palmer",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "256115",
+       "name": "Pedro Neto",
+       "shortName": "P. Neto",
+       "jersey": "7",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "284960",
+       "name": "João Pedro",
+       "shortName": "João Pedro",
+       "jersey": "9",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "3-1-4-2",
+    "lineup": [
+     [
+      {
+       "espnId": "324393",
+       "name": "Antonín Kinsky",
+       "shortName": "A. Kinsky",
+       "jersey": "31",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "296512",
+       "name": "Micky van de Ven",
+       "shortName": "M. van de Ven",
+       "jersey": "37",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "231198",
+       "name": "Tosin Adarabioyo",
+       "shortName": "T. Adarabioyo",
+       "jersey": "4",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "282583",
+       "name": "Jan Paul van Hecke",
+       "shortName": "J. van Hecke",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "261047",
+       "name": "Sandro Tonali",
+       "shortName": "S. Tonali",
+       "jersey": "16",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "104943",
+       "name": "Andy Robertson",
+       "shortName": "A. Robertson",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "194450",
+       "name": "James Maddison",
+       "shortName": "J. Maddison",
+       "jersey": "10",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
+       "returning": false
+      },
+      {
+       "espnId": "266599",
+       "name": "Mohammed Kudus",
+       "shortName": "M. Kudus",
+       "jersey": "20",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "328050",
+       "name": "Archie Gray",
+       "shortName": "A. Gray",
+       "jersey": "14",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "303745",
+       "name": "Omar Marmoush",
+       "shortName": "O. Marmoush",
+       "jersey": "22",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "194115",
+       "name": "Dominic Solanke",
+       "shortName": "D. Solanke",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [],
+    "basedOn": 5
+   }
+  },
+  "75": {
+   "home": {
+    "formation": "3-4-2-1",
+    "lineup": [
+     [
+      {
+       "espnId": "195738",
+       "name": "Walter Benítez",
+       "shortName": "W. Benítez",
+       "jersey": "44",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "388605",
+       "name": "Honest Ahanor",
+       "shortName": "H. Ahanor",
+       "jersey": "21",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "272585",
+       "name": "Chris Richards",
+       "shortName": "C. Richards",
+       "jersey": "26",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "386252",
+       "name": "Jaydee Canvot",
+       "shortName": "J. Canvot",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "300853",
+       "name": "Tyrick Mitchell",
+       "shortName": "T. Mitchell",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "282230",
+       "name": "Quinten Timber",
+       "shortName": "Q. Timber",
+       "jersey": "23",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Hamstring injury - 75% chance of playing",
+       "returning": false
+      },
+      {
+       "espnId": "332648",
+       "name": "Anan Khalaili",
+       "shortName": "A. Khalaili",
+       "jersey": "25",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "333419",
+       "name": "Adam Wharton",
+       "shortName": "A. Wharton",
+       "jersey": "20",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "252747",
+       "name": "Jørgen Strand Larsen",
+       "shortName": "J. Larsen",
+       "jersey": "22",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
+       "returning": false
+      },
+      {
+       "espnId": "219362",
+       "name": "Daichi Kamada",
+       "shortName": "D. Kamada",
+       "jersey": "18",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "297370",
+       "name": "Yéremy Pino",
+       "shortName": "Y. Pino",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "319267",
+       "name": "Lukás Hornícek",
+       "shortName": "L. Hornícek",
+       "jersey": "21",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "106139",
+       "name": "Lewis Hall",
+       "shortName": "L. Hall",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "274633",
+       "name": "Sven Botman",
+       "shortName": "S. Botman",
+       "jersey": "4",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "349078",
+       "name": "Lewis Miley",
+       "shortName": "L. Miley",
+       "jersey": "67",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "303444",
+       "name": "Malick Thiaw",
+       "shortName": "M. Thiaw",
+       "jersey": "12",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "323986",
+       "name": "Nico González",
+       "shortName": "N. González",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "202232",
+       "name": "Joelinton",
+       "shortName": "Joelinton",
+       "jersey": "7",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "243386",
+       "name": "Harvey Barnes",
+       "shortName": "H. Barnes",
+       "jersey": "11",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "259517",
+       "name": "Joe Willock",
+       "shortName": "J. Willock",
+       "jersey": "28",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "359651",
+       "name": "Matias Fernandez-Pardo",
+       "shortName": "M. Fernandez-Pardo",
+       "jersey": "20",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Illness - 75% chance of playing",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "224077",
+       "name": "Yoane Wissa",
+       "shortName": "Y. Wissa",
+       "jersey": "9",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [],
+    "basedOn": 5
+   }
+  },
+  "76": {
+   "home": {
+    "formation": "5-4-1",
+    "lineup": [
+     [
+      {
+       "espnId": "284199",
+       "name": "Konstantinos Tzolakis",
+       "shortName": "K. Tzolakis",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "243576",
+       "name": "Ryan Giles",
+       "shortName": "R. Giles",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": true
+      },
+      {
+       "espnId": "392320",
+       "name": "Lucas Herrington",
+       "shortName": "L. Herrington",
+       "jersey": "22",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "168424",
+       "name": "John Egan",
+       "shortName": "J. Egan",
+       "jersey": "15",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "231826",
+       "name": "Lewie Coyle",
+       "shortName": "L. Coyle",
+       "jersey": "2",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "178051",
+       "name": "Semi Ajayi",
+       "shortName": "S. Ajayi",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "249851",
+       "name": "Regan Slater",
+       "shortName": "R. Slater",
+       "jersey": "27",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "250478",
+       "name": "Sorba Thomas",
+       "shortName": "S. Thomas",
+       "jersey": "7",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "320417",
+       "name": "Mohamed Belloumi",
+       "shortName": "M. Belloumi",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "153613",
+       "name": "Matt Crooks",
+       "shortName": "M. Crooks",
+       "jersey": "25",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "193010",
+       "name": "Oliver McBurnie",
+       "shortName": "O. McBurnie",
+       "jersey": "9",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Ryan Giles",
+      "out": "Brooke Norton-Cuffy",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     }
+    ],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "275599",
+       "name": "Caoimhín Kelleher",
+       "shortName": "C. Kelleher",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "284490",
+       "name": "Keane Lewis-Potter",
+       "shortName": "K. Lewis-Potter",
+       "jersey": "23",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "206173",
+       "name": "Kristoffer Ajer",
+       "shortName": "K. Ajer",
+       "jersey": "20",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "356640",
+       "name": "Michael Kayode",
+       "shortName": "M. Kayode",
+       "jersey": "33",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "376683",
+       "name": "Jannik Schuster",
+       "shortName": "J. Schuster",
+       "jersey": "44",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Ankle injury - 75% chance of playing",
+       "returning": true
+      }
+     ],
+     [
+      {
+       "espnId": "228547",
+       "name": "Mamadou Sangare",
+       "shortName": "M. Sangare",
+       "jersey": "18",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "308932",
+       "name": "Mikkel Damsgaard",
+       "shortName": "M. Damsgaard",
+       "jersey": "24",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "307657",
+       "name": "Jaidon Anthony",
+       "shortName": "J. Anthony",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "310958",
+       "name": "Kevin Schade",
+       "shortName": "K. Schade",
+       "jersey": "7",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": true
+      },
+      {
+       "espnId": "315530",
+       "name": "Dango Ouattara",
+       "shortName": "D. Ouattara",
+       "jersey": "11",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "301894",
+       "name": "Igor Thiago",
+       "shortName": "I. Thiago",
+       "jersey": "9",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Kevin Schade",
+      "out": "Mathias Jensen",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Jannik Schuster",
+      "out": "Sepp van den Berg",
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
+     },
+     {
+      "in": "Mamadou Sangare",
+      "out": "Vitaly Janelt",
+      "kind": "unavailable",
+      "reason": "Suspended until 31 Oct"
+     },
+     {
+      "in": "Mikkel Damsgaard",
+      "out": "Yehor Yarmoliuk",
+      "kind": "unavailable",
+      "reason": "Suspended until 8 Nov"
+     }
+    ],
+    "basedOn": 5
+   }
+  },
+  "78": {
+   "home": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "196876",
+       "name": "Alisson Becker",
+       "shortName": "A. Becker",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "323110",
+       "name": "Milos Kerkez",
+       "shortName": "M. Kerkez",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "157892",
+       "name": "Virgil van Dijk",
+       "shortName": "V. van Dijk",
+       "jersey": "4",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "270821",
+       "name": "Ronald Araujo",
+       "shortName": "R. Araujo",
+       "jersey": "33",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "355980",
+       "name": "Jérémy Jacquet",
+       "shortName": "J. Jacquet",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "274632",
+       "name": "Ryan Gravenberch",
+       "shortName": "R. Gravenberch",
+       "jersey": "38",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "249299",
+       "name": "Alexis Mac Allister",
+       "shortName": "A. Mac Allister",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "328238",
+       "name": "Bradley Barcola",
+       "shortName": "B. Barcola",
+       "jersey": "29",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "303748",
+       "name": "Florian Wirtz",
+       "shortName": "F. Wirtz",
+       "jersey": "7",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "249524",
+       "name": "Cody Gakpo",
+       "shortName": "C. Gakpo",
+       "jersey": "18",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "235662",
+       "name": "Alexander Isak",
+       "shortName": "A. Isak",
+       "jersey": "9",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Ryan Gravenberch",
+      "out": "Dominik Szoboszlai",
+      "kind": "unavailable",
+      "reason": "Hamstring injury - Unknown return date"
+     },
+     {
+      "in": "Cody Gakpo",
+      "out": "Víctor Muñoz",
+      "kind": "unavailable",
+      "reason": "Knee injury - 25% chance of playing"
+     }
+    ],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "291609",
+       "name": "Bart Verbruggen",
+       "shortName": "B. Verbruggen",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "216017",
+       "name": "Olivier Boscagli",
+       "shortName": "O. Boscagli",
+       "jersey": "21",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "147106",
+       "name": "Lewis Dunk",
+       "shortName": "L. Dunk",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "238318",
+       "name": "Ferdi Kadioglu",
+       "shortName": "F. Kadioglu",
+       "jersey": "24",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "364962",
+       "name": "Luka Vuskovic",
+       "shortName": "L. Vuskovic",
+       "jersey": "44",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "387489",
+       "name": "Chema Andrés",
+       "shortName": "C. Andrés",
+       "jersey": "14",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "132659",
+       "name": "Pascal Gross",
+       "shortName": "P. Gross",
+       "jersey": "13",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "301327",
+       "name": "Maxim De Cuyper",
+       "shortName": "M. De Cuyper",
+       "jersey": "29",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "304242",
+       "name": "Yasin Ayari",
+       "shortName": "Y. Ayari",
+       "jersey": "26",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "192278",
+       "name": "Diego Gómez",
+       "shortName": "D. Gómez",
+       "jersey": "25",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "387655",
+       "name": "Charalambos Kostoulas",
+       "shortName": "C. Kostoulas",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [],
+    "basedOn": 5
+   }
+  },
+  "79": {
+   "home": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "301425",
+       "name": "Senne Lammens",
+       "shortName": "S. Lammens",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "238902",
+       "name": "Diogo Dalot",
+       "shortName": "D. Dalot",
+       "jersey": "2",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "233937",
+       "name": "Lisandro Martínez",
+       "shortName": "L. Martínez",
+       "jersey": "6",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Thigh injury - 75% chance of playing",
+       "returning": false
+      },
+      {
+       "espnId": "340206",
+       "name": "Leny Yoro",
+       "shortName": "L. Yoro",
+       "jersey": "15",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "157073",
+       "name": "Harry Maguire",
+       "shortName": "H. Maguire",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "338814",
+       "name": "Carlos Baleba",
+       "shortName": "C. Baleba",
+       "jersey": "20",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "314858",
+       "name": "Andrey Santos",
+       "shortName": "A. Santos",
+       "jersey": "17",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "124091",
+       "name": "Bruno Fernandes",
+       "shortName": "B. Fernandes",
+       "jersey": "8",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "193297",
+       "name": "Youri Tielemans",
+       "shortName": "Y. Tielemans",
+       "jersey": "18",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "230945",
+       "name": "Marcus Rashford",
+       "shortName": "M. Rashford",
+       "jersey": "9",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Hip injury - 75% chance of playing",
+       "returning": true
+      }
+     ],
+     [
+      {
+       "espnId": "271170",
+       "name": "Bryan Mbeumo",
+       "shortName": "B. Mbeumo",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Marcus Rashford",
+      "out": "Amad Diallo",
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
+     }
+    ],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "lineup": [
+     [
+      {
+       "espnId": "289824",
+       "name": "Djordje Petrovic",
+       "shortName": "D. Petrovic",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "305684",
+       "name": "Adrien Truffert",
+       "shortName": "A. Truffert",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "346588",
+       "name": "António Silva",
+       "shortName": "A. Silva",
+       "jersey": "14",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "122268",
+       "name": "Adam Smith",
+       "shortName": "A. Smith",
+       "jersey": "15",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "279155",
+       "name": "James Hill",
+       "shortName": "J. Hill",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "222776",
+       "name": "Tyler Adams",
+       "shortName": "T. Adams",
+       "jersey": "12",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "223452",
+       "name": "Lewis Cook",
+       "shortName": "L. Cook",
+       "jersey": "4",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "243364",
+       "name": "Marcus Tavernier",
+       "shortName": "M. Tavernier",
+       "jersey": "16",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "357719",
+       "name": "Rayan",
+       "shortName": "Rayan",
+       "jersey": "37",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "93435",
+       "name": "Ryan Christie",
+       "shortName": "R. Christie",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "102368",
+       "name": "Evanilson",
+       "shortName": "Evanilson",
+       "jersey": "9",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [],
+    "basedOn": 5
+   }
+  },
+  "80": {
+   "home": {
+    "formation": "4-2-3-1",
+    "lineup": [
+     [
+      {
+       "espnId": "301449",
+       "name": "Robin Roefs",
+       "shortName": "R. Roefs",
+       "jersey": "22",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "230081",
+       "name": "Reinildo Mandava",
+       "shortName": "R. Mandava",
+       "jersey": "17",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "215401",
+       "name": "Omar Alderete",
+       "shortName": "O. Alderete",
+       "jersey": "15",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "214188",
+       "name": "Nordi Mukiele",
+       "shortName": "N. Mukiele",
+       "jersey": "20",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "290207",
+       "name": "Trai Hume",
+       "shortName": "T. Hume",
+       "jersey": "32",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "340240",
+       "name": "Noah Sadiki",
+       "shortName": "N. Sadiki",
+       "jersey": "27",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "149981",
+       "name": "Granit Xhaka",
+       "shortName": "G. Xhaka",
+       "jersey": "34",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "288340",
+       "name": "Enzo Le Fée",
+       "shortName": "E. Le Fée",
+       "jersey": "28",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "318090",
+       "name": "Nilson Angulo",
+       "shortName": "N. Angulo",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": true
+      },
+      {
+       "espnId": "166473",
+       "name": "Thomas Meunier",
+       "shortName": "T. Meunier",
+       "jersey": "12",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Groin injury - 75% chance of playing",
+       "returning": true
+      }
+     ],
+     [
+      {
+       "espnId": "282229",
+       "name": "Brian Brobbey",
+       "shortName": "B. Brobbey",
+       "jersey": "9",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Hamstring injury - 75% chance of playing",
+       "returning": true
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Nilson Angulo",
+      "out": "Chris Rigg",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Thomas Meunier",
+      "out": "Trai Hume",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Brian Brobbey",
+      "out": "Tymur Tutierov",
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
+     },
+     {
+      "in": "Trai Hume",
+      "out": "Kevin Danso",
+      "kind": "unavailable",
+      "reason": "Suspended until 31 Oct"
+     }
+    ],
+    "basedOn": 5
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "lineup": [
+     [
+      {
+       "espnId": "307118",
+       "name": "James Trafford",
+       "shortName": "J. Trafford",
+       "jersey": "1",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "318390",
+       "name": "Tarik Muharemovic",
+       "shortName": "T. Muharemovic",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "212237",
+       "name": "Nico Elvedi",
+       "shortName": "N. Elvedi",
+       "jersey": "30",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "231863",
+       "name": "James Justin",
+       "shortName": "J. Justin",
+       "jersey": "24",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "250166",
+       "name": "Gabriel Gudmundsson",
+       "shortName": "G. Gudmundsson",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "253173",
+       "name": "Ao Tanaka",
+       "shortName": "A. Tanaka",
+       "jersey": "22",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "243408",
+       "name": "Jayden Bogle",
+       "shortName": "J. Bogle",
+       "jersey": "2",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "241317",
+       "name": "Ethan Ampadu",
+       "shortName": "E. Ampadu",
+       "jersey": "4",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "197717",
+       "name": "Dominic Calvert-Lewin",
+       "shortName": "D. Calvert-Lewin",
+       "jersey": "9",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Foot injury - 50% chance of playing",
+       "returning": false
+      },
+      {
+       "espnId": "304802",
+       "name": "Anton Stach",
+       "shortName": "A. Stach",
+       "jersey": "18",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Foot injury - 50% chance of playing",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "270641",
+       "name": "Noah Okafor",
+       "shortName": "N. Okafor",
+       "jersey": "19",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Thigh injury - 50% chance of playing",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [],
+    "basedOn": 5
+   }
+  }
+ }
+}
