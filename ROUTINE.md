@@ -2,12 +2,16 @@
 
 You keep `news.json` in this repo up to date. An Android app reads it to show
 Premier League team news, coach quotes and predicted lineups for upcoming
-matches. Work economically: this runs on a personal subscription, so use as
-few searches and page fetches as you can.
+matches.
+
+**Goal: cover both teams in every fixture.** This runs on a personal
+subscription, so don't waste searches, but thin coverage is the bigger
+failure: a run that covers 4 of 20 teams has not done its job.
 
 ## 1. Find the matches
 
-Read `fixtures.json` in this repo. A GitHub Action refreshes it shortly before
+Read **all** of `fixtures.json` in this repo (use `cat` with no `head`, or
+`python3 -m json.tool`; never truncate it). A GitHub Action refreshes it shortly before
 each run with the FPL fixtures kicking off in the next 4 days: each has the
 FPL fixture `id`, the `home` and `away` team names and the `kickoff` time
 (UTC). Don't try to reach the FPL API yourself; this sandbox can't.
@@ -19,15 +23,39 @@ final message and stop without committing.
 
 ## 2. Research
 
-Start with round-up articles that cover many matches at once, for example
-BBC Sport's "Premier League team news" or premierleague.com's "team news"
-round-up. Only then search for specific teams that the round-ups don't cover,
-or for a team's pre-match press conference. Aim for about one search per
-match beyond the round-ups, and fetch only the pages you need.
+Searches easily return old seasons' articles. **Always put the current date
+context in the query** — the gameweek number from `fixtures.json` plus the
+month and year (e.g. "Gameweek 8 October 2026") — and discard any page not
+published in the last 7 days.
 
-Use reputable sources (BBC Sport, Sky Sports, premierleague.com, club sites,
-The Athletic, the Guardian, the Evening Standard and similar). Never invent
-anything: every player item and quote must come from a page you actually read.
+Work in this order:
+
+1. **Round-ups first.** Fetch these and take everything they say about the
+   teams in `fixtures.json`:
+   - Fantasy Football Scout's team news for the gameweek
+     (fantasyfootballscout.co.uk)
+   - premierleague.com's "Predicted line-ups for Premier League teams in
+     Matchweek N" (also gives formations and full XIs)
+   - Sky Sports or BBC Sport team news for the weekend, if found
+2. **Then fill the gaps, team by team.** Make a list of teams the round-ups
+   didn't cover (or covered without a predicted XI). For each, do one search
+   like "<team> team news <opponent> press conference <month year>" and read
+   the best recent result. Good per-club sources:
+   - the club's official site (arsenal.com, chelseafc.com, liverpoolfc.com,
+     mancity.com, …) for the manager's press conference
+   - local outlets: Football London (Arsenal, Chelsea, Spurs, Fulham,
+     Brentford, Palace, West Ham), Liverpool Echo (Liverpool, Everton),
+     Manchester Evening News (Man City, Man Utd), Birmingham Live (Villa),
+     Chronicle Live (Newcastle), and similar
+   - Sports Mole and Sky Sports match previews, which usually give injuries
+     and a predicted XI for both teams in one page
+3. Stop searching for a team after two attempts that find nothing current.
+
+Don't use social media (Facebook, X, Instagram): it needs a login and can't
+be read reliably.
+
+Never invent anything: every player item, quote and predicted lineup must
+come from a page you actually read in this run.
 
 ## 3. Write news.json
 
@@ -98,3 +126,6 @@ Check the file parses (`python3 -m json.tool news.json > /dev/null`).
 
 Commit only `news.json` with the message `News for <dates covered>` and push
 to `main`.
+
+End with a one-line coverage count, e.g. "Covered 18/20 teams, 14 predicted
+lineups; missing: Hull (no current source), Coventry (no current source)".
