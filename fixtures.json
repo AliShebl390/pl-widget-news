@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-23T16:59:13Z",
+  "fixtures": [
+    {
+      "id": 77,
+      "event": 8,
+      "home": "Ipswich Town",
+      "away": "Nott'm Forest",
+      "kickoff": "2026-10-23T19:00:00Z"
+    },
+    {
+      "id": 72,
+      "event": 8,
+      "home": "Aston Villa",
+      "away": "Man City",
+      "kickoff": "2026-10-24T11:30:00Z"
+    },
+    {
+      "id": 71,
+      "event": 8,
+      "home": "Arsenal",
+      "away": "Everton",
+      "kickoff": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": 74,
+      "event": 8,
+      "home": "Coventry City",
+      "away": "Fulham",
+      "kickoff": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": 73,
+      "event": 8,
+      "home": "Chelsea",
+      "away": "Spurs",
+      "kickoff": "2026-10-24T16:30:00Z"
+    },
+    {
+      "id": 75,
+      "event": 8,
+      "home": "Crystal Palace",
+      "away": "Newcastle",
+      "kickoff": "2026-10-25T14:00:00Z"
+    },
+    {
+      "id": 76,
+      "event": 8,
+      "home": "Hull City",
+      "away": "Brentford",
+      "kickoff": "2026-10-25T14:00:00Z"
+    },
+    {
+      "id": 78,
+      "event": 8,
+      "home": "Liverpool",
+      "away": "Brighton",
+      "kickoff": "2026-10-25T14:00:00Z"
+    },
+    {
+      "id": 79,
+      "event": 8,
+      "home": "Man Utd",
+      "away": "Bournemouth",
+      "kickoff": "2026-10-25T14:00:00Z"
+    },
+    {
+      "id": 80,
+      "event": 8,
+      "home": "Sunderland",
+      "away": "Leeds",
+      "kickoff": "2026-10-25T16:30:00Z"
+    }
+  ]
+}
