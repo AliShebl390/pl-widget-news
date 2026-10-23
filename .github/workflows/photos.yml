@@ -1,0 +1,25 @@
+name: Player photos
+
+on:
+  # Daily; each run checks new and transferred players first.
+  schedule:
+    - cron: "40 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+      - name: Pick the best photo for every player
+        run: python3 .github/photos.py
+      - name: Commit photos.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photos.json
+          git diff --cached --quiet || (git commit -m "Player photos" && git pull --rebase -q && git push)
