@@ -11,13 +11,14 @@ failure: a run that covers 4 of 20 teams has not done its job.
 ## 1. Find the matches
 
 Read **all** of `fixtures.json` in this repo (use `cat` with no `head`, or
-`python3 -m json.tool`; never truncate it). A GitHub Action refreshes it shortly before
-each run with the FPL fixtures kicking off in the next 4 days: each has the
+`python3 -m json.tool`; never truncate it). A GitHub Action writes it about two
+hours before each FPL deadline and then starts this routine. It holds the
+gameweek (`event`), its `deadline`, and every fixture in that gameweek: the
 FPL fixture `id`, the `home` and `away` team names and the `kickoff` time
 (UTC). Don't try to reach the FPL API yourself; this sandbox can't.
 
-If `generatedAt` is more than a day old, the Action didn't run: say so in your
-final message and stop without committing.
+If `generatedAt` is more than 12 hours old, the Action didn't prepare this
+run: say so in your final message and stop without committing.
 
 **If `fixtures` is empty, stop here.** Don't search, don't commit.
 
