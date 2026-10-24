@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T14:35:33Z",
+ "generatedAt": "2026-10-24T18:11:24Z",
  "event": null,
  "matches": {
   "77": {
@@ -877,9 +877,9 @@
        "name": "Bobby Thomas",
        "shortName": "B. Thomas",
        "jersey": "4",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -1209,9 +1209,9 @@
        "name": "João Pedro",
        "shortName": "João Pedro",
        "jersey": "9",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       }
      ]
@@ -1301,9 +1301,9 @@
        "name": "James Maddison",
        "shortName": "J. Maddison",
        "jersey": "10",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
