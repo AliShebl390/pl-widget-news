@@ -25,6 +25,8 @@ ABBR_ALIASES = {"MCI": "MNC", "MUN": "MAN"}
 HISTORY = 5
 REGULAR_STARTS = 3
 UNLIKELY_CHANCE = 25
+# FPL's element_type as an ESPN position.
+FPL_POSITION = {1: "G", 2: "D", 3: "M", 4: "F"}
 
 _cache = {}
 
@@ -201,6 +203,14 @@ def predict(team_id, before, fixtures, teams, avail):
                 starts[p["id"]] += 1
                 positions[p["id"]][p["position"]] += 1
 
+    # ESPN lists every substitute as "SUB". Give them a real position (where they start, or FPL's
+    # GK/DEF/MID/FWD), or a goalkeeper on the bench never counts as one and an injured keeper is never replaced.
+    for pid, p in squad.items():
+        if p["position"] == "SUB":
+            fpl = avail.find(p["name"], team_id)
+            usual = positions[pid].most_common(1)[0][0] if positions[pid] else None
+            squad[pid] = dict(p, position=usual or (FPL_POSITION.get(fpl["element_type"], "M") if fpl else "M"))
+
     last = sheets[0]
     xi = [dict(p) for p in last["players"] if p["starter"]]
     in_xi = {p["id"] for p in xi}
@@ -298,6 +308,14 @@ def main():
             print(f"{f[side]:>16}: " + (f"{p['formation']} from {p['basedOn']} matches, {len(p['changes'])} change(s)" if p else "no prediction"))
         result["matches"][str(f["id"])] = entry
 
+    # Runs every hour; only a real change (an injury, a returning player) rewrites the file.
+    try:
+        old = json.load(open("predicted.json", encoding="utf-8"))
+    except (OSError, ValueError):
+        old = {}
+    if old.get("matches") == result["matches"] and old.get("event") == result["event"]:
+        print("No change")
+        return
     with open("predicted.json", "w", encoding="utf-8") as out:
         json.dump(result, out, ensure_ascii=False, indent=1)
 

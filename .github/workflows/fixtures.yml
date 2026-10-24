@@ -22,11 +22,10 @@ jobs:
       - name: Check the next FPL deadline
         id: check
         run: python3 .github/fixtures.py ${{ inputs.force && '--force' || '' }}
+      # Every run, not only before the deadline: injuries and returns come out all week.
       - name: Predict lineups
-        if: steps.check.outputs.run == 'true'
         run: python3 .github/predict.py
       - name: Commit fixtures and predicted lineups
-        if: steps.check.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
