@@ -29,8 +29,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add fixtures.json state.json predicted.json
-          git diff --cached --quiet || (git commit -m "Fixtures and predicted lineups for GW${{ steps.check.outputs.event }}" && git push)
+          for f in fixtures.json state.json predicted.json; do [ -f "$f" ] && git add "$f"; done
+          git diff --cached --quiet || (git commit -m "Fixtures and predicted lineups" && git push)
       - name: Fire the Claude routine
         if: steps.check.outputs.run == 'true'
         env:
