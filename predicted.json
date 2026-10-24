@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T18:12:52Z",
+ "generatedAt": "2026-10-24T13:25:08Z",
  "event": null,
  "matches": {
   "77": {
@@ -183,9 +183,9 @@
        "name": "Neco Williams",
        "shortName": "N. Williams",
        "jersey": "3",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Arm injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -361,9 +361,9 @@
        "name": "Johan Manzambi",
        "shortName": "J. Manzambi",
        "jersey": "44",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Calf injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1097,12 +1097,12 @@
     "lineup": [
      [
       {
-       "espnId": "158626",
-       "name": "Emiliano Martínez",
-       "shortName": "E. Martínez",
-       "jersey": "1",
+       "espnId": "332343",
+       "name": "Mike Penders",
+       "shortName": "M. Penders",
+       "jersey": "39",
        "doubtful": false,
-       "chance": 0,
+       "chance": null,
        "news": "",
        "returning": false
       }
@@ -1216,7 +1216,14 @@
       }
      ]
     ],
-    "changes": [],
+    "changes": [
+     {
+      "in": "Mike Penders",
+      "out": "Emiliano Martínez",
+      "kind": "unavailable",
+      "reason": "Head injury - Unknown return date"
+     }
+    ],
     "basedOn": 5
    },
    "away": {
