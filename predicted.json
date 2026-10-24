@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T13:25:08Z",
+ "generatedAt": "2026-10-24T14:35:33Z",
  "event": null,
  "matches": {
   "77": {
@@ -785,9 +785,9 @@
        "name": "Jack Grealish",
        "shortName": "J. Grealish",
        "jersey": "10",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Illness - 75% chance of playing",
        "returning": false
       },
       {
