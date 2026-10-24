@@ -32,8 +32,8 @@ PL = [
 ]
 OUT = "photos.json"
 PER_RUN = 450
-RECHECK = timedelta(days=7)
-GAP = 2.2
+RECHECK = timedelta(days=1)
+GAP = 3.0
 
 # A word TheSportsDB's club name contains, by FPL short name.
 CLUBS = {
@@ -52,6 +52,9 @@ def fetch(url, method="GET", tries=4):
             with urllib.request.urlopen(req, timeout=30) as r:
                 return r.status, r.read() if method == "GET" else b""
         except urllib.error.HTTPError as e:
+            if e.code == 429:  # rate limited: wait and try again
+                time.sleep(30 * (attempt + 1))
+                continue
             return e.code, b""
         except Exception:
             time.sleep(5 * (attempt + 1))
@@ -71,7 +74,8 @@ def official(code):
 
 
 def tsdb(first, second, web):
-    """TheSportsDB footballers matching the player's name."""
+    """TheSportsDB footballers matching the player's name; None when TheSportsDB couldn't be reached."""
+    reached = False
     for name in (f"{first} {second}", web if web != second else None):
         if not name:
             continue
@@ -79,6 +83,7 @@ def tsdb(first, second, web):
         time.sleep(GAP)
         if status != 200 or not body:
             continue
+        reached = True
         try:
             found = json.loads(body).get("player") or []
         except ValueError:
@@ -86,7 +91,7 @@ def tsdb(first, second, web):
         found = [p for p in found if p.get("strSport") == "Soccer" and (p.get("strCutout") or p.get("strThumb"))]
         if found:
             return found
-    return []
+    return [] if reached else None
 
 
 def main():
@@ -102,17 +107,23 @@ def main():
         old = state.get(str(e["code"]))
         if not old or old.get("t") != e["team"]:
             return 0  # new or moved: first
-        if old.get("s") != "tsdb" and now - datetime.fromisoformat(old["c"]) > RECHECK:
+        # Last season's official photo (old path) often shows a previous club: look again every run.
+        if old.get("s") != "tsdb" and ("/premierleague/" in (old.get("u") or "") or now - datetime.fromisoformat(old["c"]) > RECHECK):
             return 1
         return None
 
     waiting = [(p, e) for e in boot["elements"] if e.get("status") != "u" and (p := due(e)) is not None]
     queue = [e for _, e in sorted(waiting, key=lambda pe: pe[0])][:PER_RUN]
     print(f"{len(queue)} players to check")
+    unreachable = 0
 
     for e in queue:
         code, club = str(e["code"]), CLUBS.get(teams[e["team"]], "")
         found = tsdb(e["first_name"], e["second_name"], e["web_name"])
+        if found is None:
+            # Not "no photo": TheSportsDB didn't answer. Keep what we had and try again next run.
+            unreachable += 1
+            continue
         here = [p for p in found if club and club in plain(p.get("strTeam") or "")]
         if here and here[0].get("strCutout"):
             url, source = here[0]["strCutout"], "tsdb"
@@ -132,7 +143,7 @@ def main():
     counts = {}
     for v in state.values():
         counts[v["s"]] = counts.get(v["s"], 0) + 1
-    print(counts)
+    print(counts, f"{unreachable} not reached (retried next run)")
 
 
 if __name__ == "__main__":
