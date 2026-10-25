@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T09:50:54Z",
+ "generatedAt": "2026-10-25T14:24:36Z",
  "event": null,
  "matches": {
   "77": {
@@ -1784,9 +1784,9 @@
        "name": "Jannik Schuster",
        "shortName": "J. Schuster",
        "jersey": "44",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Ankle injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": true
       },
       {
@@ -2197,9 +2197,9 @@
        "name": "Lisandro Martínez",
        "shortName": "L. Martínez",
        "jersey": "6",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Thigh injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
