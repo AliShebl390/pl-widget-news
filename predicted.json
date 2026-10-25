@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T18:25:34Z",
+ "generatedAt": "2026-10-25T21:49:38Z",
  "event": null,
  "matches": {
   "77": {
@@ -2460,12 +2460,12 @@
        "returning": false
       },
       {
-       "espnId": "290207",
-       "name": "Trai Hume",
-       "shortName": "T. Hume",
-       "jersey": "32",
+       "espnId": "250543",
+       "name": "Kevin Danso",
+       "shortName": "K. Danso",
+       "jersey": "4",
        "doubtful": false,
-       "chance": null,
+       "chance": 100,
        "news": "",
        "returning": false
       },
@@ -2565,12 +2565,6 @@
       "out": "Tymur Tutierov",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
-     },
-     {
-      "in": "Trai Hume",
-      "out": "Kevin Danso",
-      "kind": "unavailable",
-      "reason": "Suspended until 31 Oct"
      }
     ],
     "basedOn": 5
