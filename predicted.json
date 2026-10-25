@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T14:24:36Z",
+ "generatedAt": "2026-10-25T18:25:34Z",
  "event": null,
  "matches": {
   "77": {
@@ -1802,22 +1802,22 @@
      ],
      [
       {
+       "espnId": "225564",
+       "name": "Vitaly Janelt",
+       "shortName": "V. Janelt",
+       "jersey": "27",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
        "espnId": "228547",
        "name": "Mamadou Sangare",
        "shortName": "M. Sangare",
        "jersey": "18",
        "doubtful": false,
        "chance": null,
-       "news": "",
-       "returning": false
-      },
-      {
-       "espnId": "308932",
-       "name": "Mikkel Damsgaard",
-       "shortName": "M. Damsgaard",
-       "jersey": "24",
-       "doubtful": false,
-       "chance": 100,
        "news": "",
        "returning": false
       }
@@ -1882,12 +1882,6 @@
      },
      {
       "in": "Mamadou Sangare",
-      "out": "Vitaly Janelt",
-      "kind": "unavailable",
-      "reason": "Suspended until 31 Oct"
-     },
-     {
-      "in": "Mikkel Damsgaard",
       "out": "Yehor Yarmoliuk",
       "kind": "unavailable",
       "reason": "Suspended until 8 Nov"
@@ -1992,9 +1986,9 @@
        "name": "Florian Wirtz",
        "shortName": "F. Wirtz",
        "jersey": "7",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Ankle injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -2100,9 +2094,9 @@
        "name": "Chema Andrés",
        "shortName": "C. Andrés",
        "jersey": "14",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Thigh injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -2546,9 +2540,9 @@
        "name": "Brian Brobbey",
        "shortName": "B. Brobbey",
        "jersey": "9",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hamstring injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": true
       }
      ]
@@ -2612,9 +2606,9 @@
        "name": "Nico Elvedi",
        "shortName": "N. Elvedi",
        "jersey": "30",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Illness - 75% chance of playing",
        "returning": false
       },
       {
@@ -2676,9 +2670,9 @@
        "name": "Noah Okafor",
        "shortName": "N. Okafor",
        "jersey": "19",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Thigh injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -2686,9 +2680,9 @@
        "name": "Anton Stach",
        "shortName": "A. Stach",
        "jersey": "18",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Foot injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -2698,9 +2692,9 @@
        "name": "Dominic Calvert-Lewin",
        "shortName": "D. Calvert-Lewin",
        "jersey": "9",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Foot injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ]
