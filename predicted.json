@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T21:49:38Z",
+ "generatedAt": "2026-10-27T18:45:40Z",
  "event": null,
  "matches": {
   "77": {
@@ -1205,13 +1205,13 @@
      ],
      [
       {
-       "espnId": "284960",
-       "name": "João Pedro",
-       "shortName": "João Pedro",
-       "jersey": "9",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "espnId": "115271",
+       "name": "Danny Welbeck",
+       "shortName": "D. Welbeck",
+       "jersey": "18",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ]
@@ -1222,6 +1222,12 @@
       "out": "Emiliano Martínez",
       "kind": "unavailable",
       "reason": "Head injury - Unknown return date"
+     },
+     {
+      "in": "Danny Welbeck",
+      "out": "João Pedro",
+      "kind": "unavailable",
+      "reason": "Thigh injury - Unknown return date"
      }
     ],
     "basedOn": 5
@@ -1533,9 +1539,9 @@
        "name": "Lewis Miley",
        "shortName": "L. Miley",
        "jersey": "67",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Muscular injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -2096,7 +2102,7 @@
        "jersey": "14",
        "doubtful": true,
        "chance": 75,
-       "news": "Thigh injury - 75% chance of playing",
+       "news": "Hip injury - 75% chance of playing",
        "returning": false
       },
       {
