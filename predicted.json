@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T22:58:24Z",
+ "generatedAt": "2026-10-28T02:19:33Z",
  "event": null,
  "matches": {
   "77": {
@@ -633,9 +633,9 @@
        "name": "Declan Rice",
        "shortName": "D. Rice",
        "jersey": "41",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -665,9 +665,9 @@
        "name": "Noni Madueke",
        "shortName": "N. Madueke",
        "jersey": "20",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Ankle injury - 75% chance of playing",
        "returning": false
       }
      ],
