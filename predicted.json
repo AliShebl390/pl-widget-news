@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T02:19:33Z",
+ "generatedAt": "2026-10-28T21:41:23Z",
  "event": null,
  "matches": {
   "77": {
@@ -1992,9 +1992,9 @@
        "name": "Florian Wirtz",
        "shortName": "F. Wirtz",
        "jersey": "7",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Ankle injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -2534,9 +2534,9 @@
        "name": "Thomas Meunier",
        "shortName": "T. Meunier",
        "jersey": "12",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Groin injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": true
       }
      ],
