@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T21:41:23Z",
+ "generatedAt": "2026-10-29T01:50:25Z",
  "event": null,
  "matches": {
   "77": {
@@ -1133,9 +1133,9 @@
        "name": "Maxence Lacroix",
        "shortName": "M. Lacroix",
        "jersey": "5",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Hamstring injury - 75% chance of playing",
        "returning": false
       },
       {
