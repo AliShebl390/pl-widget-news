@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T08:33:30Z",
+ "generatedAt": "2026-10-29T16:11:11Z",
  "event": null,
  "matches": {
   "77": {
@@ -183,9 +183,9 @@
        "name": "Neco Williams",
        "shortName": "N. Williams",
        "jersey": "3",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Arm injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -225,9 +225,9 @@
        "name": "Dan Ndoye",
        "shortName": "D. Ndoye",
        "jersey": "14",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Hamstring injury - 50% chance of playing",
        "returning": false
       },
       {
@@ -1644,14 +1644,14 @@
        "returning": true
       },
       {
-       "espnId": "392320",
-       "name": "Lucas Herrington",
-       "shortName": "L. Herrington",
-       "jersey": "22",
+       "espnId": "356212",
+       "name": "Nobel Mendy",
+       "shortName": "N. Mendy",
+       "jersey": "32",
        "doubtful": false,
-       "chance": null,
+       "chance": 100,
        "news": "",
-       "returning": false
+       "returning": true
       },
       {
        "espnId": "168424",
@@ -1745,6 +1745,12 @@
       "out": "Brooke Norton-Cuffy",
       "kind": "regular",
       "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Nobel Mendy",
+      "out": "Lucas Herrington",
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
      }
     ],
     "basedOn": 5
@@ -2606,9 +2612,9 @@
        "name": "Nico Elvedi",
        "shortName": "N. Elvedi",
        "jersey": "30",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Illness - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -2680,9 +2686,9 @@
        "name": "Anton Stach",
        "shortName": "A. Stach",
        "jersey": "18",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Foot injury - 50% chance of playing",
        "returning": false
       }
      ],
