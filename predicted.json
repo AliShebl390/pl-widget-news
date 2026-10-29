@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T16:11:11Z",
+ "generatedAt": "2026-10-29T21:10:11Z",
  "event": null,
  "matches": {
   "77": {
@@ -721,9 +721,9 @@
        "name": "Vitaliy Mykolenko",
        "shortName": "V. Mykolenko",
        "jersey": "16",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -785,9 +785,9 @@
        "name": "Jack Grealish",
        "shortName": "J. Grealish",
        "jersey": "10",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Illness - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -878,8 +878,8 @@
        "shortName": "B. Thomas",
        "jersey": "4",
        "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "chance": 50,
+       "news": "Calf injury - 50% chance of playing",
        "returning": false
       },
       {
@@ -1263,9 +1263,9 @@
        "name": "Tosin Adarabioyo",
        "shortName": "T. Adarabioyo",
        "jersey": "4",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Calf injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -2486,9 +2486,9 @@
        "name": "Nordi Mukiele",
        "shortName": "N. Mukiele",
        "jersey": "20",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Knock - 75% chance of playing",
        "returning": false
       }
      ],
