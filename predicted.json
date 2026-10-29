@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T01:50:25Z",
+ "generatedAt": "2026-10-29T08:33:30Z",
  "event": null,
  "matches": {
   "77": {
@@ -1004,9 +1004,9 @@
        "name": "David Affengruber",
        "shortName": "D. Affengruber",
        "jersey": "22",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       },
       {
