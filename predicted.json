@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T01:03:58Z",
+ "generatedAt": "2026-10-30T14:13:50Z",
  "event": null,
  "matches": {
   "77": {
@@ -457,9 +457,9 @@
        "name": "Matheus Nunes",
        "shortName": "M. Nunes",
        "jersey": "27",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -1004,9 +1004,9 @@
        "name": "David Affengruber",
        "shortName": "D. Affengruber",
        "jersey": "22",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
