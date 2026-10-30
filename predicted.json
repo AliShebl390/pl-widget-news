@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T21:10:11Z",
+ "generatedAt": "2026-10-30T01:03:58Z",
  "event": null,
  "matches": {
   "77": {
@@ -1113,9 +1113,9 @@
        "name": "Jorrel Hato",
        "shortName": "J. Hato",
        "jersey": "21",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -1134,8 +1134,8 @@
        "shortName": "M. Lacroix",
        "jersey": "5",
        "doubtful": true,
-       "chance": 75,
-       "news": "Hamstring injury - 75% chance of playing",
+       "chance": 50,
+       "news": "Hamstring injury - 50% chance of playing",
        "returning": false
       },
       {
@@ -1165,9 +1165,9 @@
        "name": "Moisés Caicedo",
        "shortName": "M. Caicedo",
        "jersey": "25",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       }
      ],
