@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T14:13:50Z",
+ "generatedAt": "2026-10-30T19:27:14Z",
  "event": null,
  "matches": {
   "77": {
@@ -82,14 +82,14 @@
        "returning": false
       },
       {
-       "espnId": "336794",
-       "name": "Abdoul Ouattara",
-       "shortName": "A. Ouattara",
-       "jersey": "42",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
+       "espnId": "222300",
+       "name": "Sasa Lukic",
+       "shortName": "S. Lukic",
+       "jersey": "23",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Groin injury - 75% chance of playing",
+       "returning": true
       }
      ],
      [
@@ -127,7 +127,14 @@
       }
      ]
     ],
-    "changes": [],
+    "changes": [
+     {
+      "in": "Sasa Lukic",
+      "out": "Abdoul Ouattara",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     }
+    ],
     "basedOn": 5
    },
    "away": {
@@ -641,14 +648,14 @@
      ],
      [
       {
-       "espnId": "251400",
-       "name": "Eberechi Eze",
-       "shortName": "E. Eze",
-       "jersey": "10",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
+       "espnId": "303793",
+       "name": "Christos Tzolis",
+       "shortName": "C. Tzolis",
+       "jersey": "17",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Hamstring injury - 75% chance of playing",
+       "returning": true
       },
       {
        "espnId": "203669",
@@ -661,13 +668,13 @@
        "returning": false
       },
       {
-       "espnId": "293236",
-       "name": "Noni Madueke",
-       "shortName": "N. Madueke",
-       "jersey": "20",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Ankle injury - 75% chance of playing",
+       "espnId": "251400",
+       "name": "Eberechi Eze",
+       "shortName": "E. Eze",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
        "returning": false
       }
      ],
@@ -692,7 +699,13 @@
       "reason": "Usual starter (3 of last 5 matches)"
      },
      {
-      "in": "Noni Madueke",
+      "in": "Christos Tzolis",
+      "out": "Eberechi Eze",
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
+     },
+     {
+      "in": "Eberechi Eze",
       "out": "Bukayo Saka",
       "kind": "unavailable",
       "reason": "Thigh injury - Unknown return date"
@@ -731,9 +744,9 @@
        "name": "Jarrad Branthwaite",
        "shortName": "J. Branthwaite",
        "jersey": "4",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Concussion - 75% chance of playing",
        "returning": false
       },
       {
@@ -1109,13 +1122,13 @@
      ],
      [
       {
-       "espnId": "353951",
-       "name": "Jorrel Hato",
-       "shortName": "J. Hato",
-       "jersey": "21",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "espnId": "308947",
+       "name": "Malo Gusto",
+       "shortName": "M. Gusto",
+       "jersey": "27",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1129,13 +1142,13 @@
        "returning": false
       },
       {
-       "espnId": "265918",
-       "name": "Maxence Lacroix",
-       "shortName": "M. Lacroix",
-       "jersey": "5",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Hamstring injury - 50% chance of playing",
+       "espnId": "270190",
+       "name": "Wesley Fofana",
+       "shortName": "W. Fofana",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1165,9 +1178,9 @@
        "name": "Moisés Caicedo",
        "shortName": "M. Caicedo",
        "jersey": "25",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -1224,6 +1237,18 @@
       "reason": "Head injury - Unknown return date"
      },
      {
+      "in": "Wesley Fofana",
+      "out": "Maxence Lacroix",
+      "kind": "unavailable",
+      "reason": "Hamstring injury - Unknown return date"
+     },
+     {
+      "in": "Malo Gusto",
+      "out": "Jorrel Hato",
+      "kind": "unavailable",
+      "reason": "Unspecified injury - Unknown return date"
+     },
+     {
       "in": "Danny Welbeck",
       "out": "João Pedro",
       "kind": "unavailable",
@@ -1259,13 +1284,13 @@
        "returning": false
       },
       {
-       "espnId": "231198",
-       "name": "Tosin Adarabioyo",
-       "shortName": "T. Adarabioyo",
-       "jersey": "4",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Calf injury - 75% chance of playing",
+       "espnId": "290076",
+       "name": "Destiny Udogie",
+       "shortName": "D. Udogie",
+       "jersey": "13",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1307,9 +1332,9 @@
        "name": "James Maddison",
        "shortName": "J. Maddison",
        "jersey": "10",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1356,7 +1381,14 @@
       }
      ]
     ],
-    "changes": [],
+    "changes": [
+     {
+      "in": "Destiny Udogie",
+      "out": "Tosin Adarabioyo",
+      "kind": "unavailable",
+      "reason": "Calf injury - Unknown return date"
+     }
+    ],
     "basedOn": 5
    }
   },
@@ -1962,13 +1994,13 @@
      ],
      [
       {
-       "espnId": "274632",
-       "name": "Ryan Gravenberch",
-       "shortName": "R. Gravenberch",
-       "jersey": "38",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "espnId": "257206",
+       "name": "Dominik Szoboszlai",
+       "shortName": "D. Szoboszlai",
+       "jersey": "8",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Hamstring injury - 50% chance of playing",
        "returning": false
       },
       {
@@ -2004,13 +2036,13 @@
        "returning": false
       },
       {
-       "espnId": "249524",
-       "name": "Cody Gakpo",
-       "shortName": "C. Gakpo",
-       "jersey": "18",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "espnId": "397545",
+       "name": "Víctor Muñoz",
+       "shortName": "V. Muñoz",
+       "jersey": "23",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Knee injury - 50% chance of playing",
        "returning": false
       }
      ],
@@ -2027,20 +2059,7 @@
       }
      ]
     ],
-    "changes": [
-     {
-      "in": "Ryan Gravenberch",
-      "out": "Dominik Szoboszlai",
-      "kind": "unavailable",
-      "reason": "Hamstring injury - Unknown return date"
-     },
-     {
-      "in": "Cody Gakpo",
-      "out": "Víctor Muñoz",
-      "kind": "unavailable",
-      "reason": "Knee injury - 25% chance of playing"
-     }
-    ],
+    "changes": [],
     "basedOn": 5
    },
    "away": {
