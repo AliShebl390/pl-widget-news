@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T17:46:21Z",
+ "generatedAt": "2026-10-31T21:38:55Z",
  "event": null,
  "matches": {
   "77": {
@@ -1348,14 +1348,14 @@
        "returning": false
       },
       {
-       "espnId": "266599",
-       "name": "Mohammed Kudus",
-       "shortName": "M. Kudus",
-       "jersey": "20",
+       "espnId": "215772",
+       "name": "Rodrigo Bentancur",
+       "shortName": "R. Bentancur",
+       "jersey": "30",
        "doubtful": false,
        "chance": 100,
        "news": "",
-       "returning": false
+       "returning": true
       }
      ],
      [
@@ -1382,6 +1382,12 @@
      ]
     ],
     "changes": [
+     {
+      "in": "Rodrigo Bentancur",
+      "out": "Mohammed Kudus",
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
+     },
      {
       "in": "Destiny Udogie",
       "out": "Tosin Adarabioyo",
@@ -1738,12 +1744,12 @@
        "returning": false
       },
       {
-       "espnId": "153613",
-       "name": "Matt Crooks",
-       "shortName": "M. Crooks",
-       "jersey": "25",
+       "espnId": "357145",
+       "name": "Elliot Stroud",
+       "shortName": "E. Stroud",
+       "jersey": "21",
        "doubtful": false,
-       "chance": 100,
+       "chance": null,
        "news": "",
        "returning": false
       },
@@ -1783,6 +1789,12 @@
       "out": "Lucas Herrington",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
+     },
+     {
+      "in": "Elliot Stroud",
+      "out": "Matt Crooks",
+      "kind": "unavailable",
+      "reason": "Suspended until 22 Nov"
      }
     ],
     "basedOn": 5
@@ -1856,12 +1868,12 @@
        "returning": false
       },
       {
-       "espnId": "228547",
-       "name": "Mamadou Sangare",
-       "shortName": "M. Sangare",
-       "jersey": "18",
+       "espnId": "342029",
+       "name": "Yehor Yarmoliuk",
+       "shortName": "Y. Yarmoliuk",
+       "jersey": "6",
        "doubtful": false,
-       "chance": null,
+       "chance": 100,
        "news": "",
        "returning": false
       }
@@ -1923,12 +1935,6 @@
       "out": "Sepp van den Berg",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
-     },
-     {
-      "in": "Mamadou Sangare",
-      "out": "Yehor Yarmoliuk",
-      "kind": "unavailable",
-      "reason": "Suspended until 8 Nov"
      }
     ],
     "basedOn": 5
@@ -2713,9 +2719,9 @@
        "name": "Noah Okafor",
        "shortName": "N. Okafor",
        "jersey": "19",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Thigh injury - 75% chance of playing",
        "returning": false
       },
       {
