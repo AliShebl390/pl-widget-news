@@ -15,3 +15,5 @@ hand, use "Run workflow" on the Action with "force" ticked.
 
 `teams.json` maps Fantasy Premier League team ids to names for the current
 season.
+
+`managers.json` maps each club's FPL short name to its manager. The app uses it to put managers' names right in translated team news (FPL lists no managers). Edit it by hand when a club changes manager; the app reads it every 12 hours.
