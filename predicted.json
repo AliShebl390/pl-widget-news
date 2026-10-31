@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T12:38:08Z",
+ "generatedAt": "2026-10-31T17:46:21Z",
  "event": null,
  "matches": {
   "77": {
@@ -232,9 +232,9 @@
        "name": "Dan Ndoye",
        "shortName": "D. Ndoye",
        "jersey": "14",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Hamstring injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1168,9 +1168,9 @@
        "name": "Jordan Henderson",
        "shortName": "J. Henderson",
        "jersey": "14",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Illness - 75% chance of playing",
        "returning": false
       },
       {
@@ -2125,9 +2125,9 @@
        "name": "Chema Andrés",
        "shortName": "C. Andrés",
        "jersey": "14",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hip injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -2218,10 +2218,10 @@
        "returning": false
       },
       {
-       "espnId": "233937",
-       "name": "Lisandro Martínez",
-       "shortName": "L. Martínez",
-       "jersey": "6",
+       "espnId": "239350",
+       "name": "Noussair Mazraoui",
+       "shortName": "N. Mazraoui",
+       "jersey": "3",
        "doubtful": false,
        "chance": 100,
        "news": "",
@@ -2327,6 +2327,12 @@
       "out": "Amad Diallo",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
+     },
+     {
+      "in": "Noussair Mazraoui",
+      "out": "Lisandro Martínez",
+      "kind": "unavailable",
+      "reason": "Suspended until 22 Nov"
      }
     ],
     "basedOn": 5
@@ -2487,12 +2493,12 @@
        "returning": false
       },
       {
-       "espnId": "215401",
-       "name": "Omar Alderete",
-       "shortName": "O. Alderete",
-       "jersey": "15",
+       "espnId": "290207",
+       "name": "Trai Hume",
+       "shortName": "T. Hume",
+       "jersey": "32",
        "doubtful": false,
-       "chance": 100,
+       "chance": null,
        "news": "",
        "returning": false
       },
@@ -2602,6 +2608,12 @@
       "out": "Tymur Tutierov",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
+     },
+     {
+      "in": "Trai Hume",
+      "out": "Omar Alderete",
+      "kind": "unavailable",
+      "reason": "Suspended until 21 Nov"
      }
     ],
     "basedOn": 5
@@ -2711,9 +2723,9 @@
        "name": "Anton Stach",
        "shortName": "A. Stach",
        "jersey": "18",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Foot injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
