@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T15:13:49Z",
+ "generatedAt": "2026-11-01T19:45:11Z",
  "event": null,
  "matches": {
   "77": {
@@ -594,9 +594,9 @@
        "name": "Riccardo Calafiori",
        "shortName": "R. Calafiori",
        "jersey": "33",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hip injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -646,9 +646,9 @@
        "name": "Declan Rice",
        "shortName": "D. Rice",
        "jersey": "41",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -658,9 +658,9 @@
        "name": "Christos Tzolis",
        "shortName": "C. Tzolis",
        "jersey": "17",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hamstring injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": true
       },
       {
@@ -2010,9 +2010,9 @@
        "name": "Dominik Szoboszlai",
        "shortName": "D. Szoboszlai",
        "jersey": "8",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Hamstring injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -2052,9 +2052,9 @@
        "name": "Víctor Muñoz",
        "shortName": "V. Muñoz",
        "jersey": "23",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Knee injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
