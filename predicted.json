@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T21:38:55Z",
+ "generatedAt": "2026-11-01T01:14:09Z",
  "event": null,
  "matches": {
   "77": {
@@ -320,10 +320,10 @@
        "returning": false
       },
       {
-       "espnId": "234698",
-       "name": "Matty Cash",
-       "shortName": "M. Cash",
-       "jersey": "2",
+       "espnId": "251100",
+       "name": "Pau Torres",
+       "shortName": "P. Torres",
+       "jersey": "14",
        "doubtful": false,
        "chance": 100,
        "news": "",
@@ -409,6 +409,12 @@
       "out": "Aaron Wan-Bissaka",
       "kind": "unavailable",
       "reason": "Hamstring injury - Expected back 21 Nov"
+     },
+     {
+      "in": "Pau Torres",
+      "out": "Matty Cash",
+      "kind": "unavailable",
+      "reason": "Suspended until 21 Nov"
      }
     ],
     "basedOn": 5
