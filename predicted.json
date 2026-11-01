@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T01:14:09Z",
+ "generatedAt": "2026-11-01T15:13:49Z",
  "event": null,
  "matches": {
   "77": {
@@ -2531,7 +2531,7 @@
        "jersey": "20",
        "doubtful": true,
        "chance": 75,
-       "news": "Knock - 75% chance of playing",
+       "news": "Concussion - 75% chance of playing",
        "returning": false
       }
      ],
