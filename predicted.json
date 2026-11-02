@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T19:45:11Z",
+ "generatedAt": "2026-11-02T23:34:47Z",
  "event": null,
  "matches": {
   "77": {
@@ -750,9 +750,9 @@
        "name": "Jarrad Branthwaite",
        "shortName": "J. Branthwaite",
        "jersey": "4",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Concussion - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
