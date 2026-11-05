@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T23:34:47Z",
+ "generatedAt": "2026-11-05T22:01:47Z",
  "event": null,
  "matches": {
   "77": {
@@ -614,9 +614,9 @@
        "name": "Ezri Konsa",
        "shortName": "E. Konsa",
        "jersey": "15",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Knee injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -750,9 +750,9 @@
        "name": "Jarrad Branthwaite",
        "shortName": "J. Branthwaite",
        "jersey": "4",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -1468,9 +1468,9 @@
        "name": "Quinten Timber",
        "shortName": "Q. Timber",
        "jersey": "23",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hamstring injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1522,9 +1522,9 @@
        "name": "Jørgen Strand Larsen",
        "shortName": "J. Larsen",
        "jersey": "22",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Ankle injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ]
@@ -1584,8 +1584,8 @@
        "shortName": "L. Miley",
        "jersey": "67",
        "doubtful": true,
-       "chance": 75,
-       "news": "Muscular injury - 75% chance of playing",
+       "chance": 50,
+       "news": "Muscular injury - 50% chance of playing",
        "returning": false
       }
      ],
@@ -1601,12 +1601,12 @@
        "returning": false
       },
       {
-       "espnId": "202232",
-       "name": "Joelinton",
-       "shortName": "Joelinton",
-       "jersey": "7",
+       "espnId": "384372",
+       "name": "Sean Steur",
+       "shortName": "S. Steur",
+       "jersey": "14",
        "doubtful": false,
-       "chance": 100,
+       "chance": null,
        "news": "",
        "returning": false
       }
@@ -1656,7 +1656,14 @@
       }
      ]
     ],
-    "changes": [],
+    "changes": [
+     {
+      "in": "Sean Steur",
+      "out": "Joelinton",
+      "kind": "unavailable",
+      "reason": "Unspecified injury - Unknown return date"
+     }
+    ],
     "basedOn": 5
    }
   },
@@ -2726,8 +2733,8 @@
        "shortName": "N. Okafor",
        "jersey": "19",
        "doubtful": true,
-       "chance": 75,
-       "news": "Thigh injury - 75% chance of playing",
+       "chance": 50,
+       "news": "Thigh injury - 50% chance of playing",
        "returning": false
       },
       {
@@ -2735,9 +2742,9 @@
        "name": "Anton Stach",
        "shortName": "A. Stach",
        "jersey": "18",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Foot injury - 50% chance of playing",
        "returning": false
       }
      ],
@@ -2747,9 +2754,9 @@
        "name": "Dominic Calvert-Lewin",
        "shortName": "D. Calvert-Lewin",
        "jersey": "9",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Foot injury - 75% chance of playing",
        "returning": false
       }
      ]
