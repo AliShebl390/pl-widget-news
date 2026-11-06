@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T22:01:47Z",
+ "generatedAt": "2026-11-06T18:00:31Z",
  "event": null,
  "matches": {
   "77": {
@@ -86,9 +86,9 @@
        "name": "Sasa Lukic",
        "shortName": "S. Lukic",
        "jersey": "23",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Groin injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": true
       }
      ],
@@ -290,13 +290,13 @@
      ],
      [
       {
-       "espnId": "281125",
-       "name": "Ian Maatsen",
-       "shortName": "I. Maatsen",
-       "jersey": "22",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "espnId": "250945",
+       "name": "Aaron Wan-Bissaka",
+       "shortName": "A. Wan-Bissaka",
+       "jersey": "29",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Hamstring injury - 50% chance of playing",
        "returning": false
       },
       {
@@ -320,10 +320,10 @@
        "returning": false
       },
       {
-       "espnId": "251100",
-       "name": "Pau Torres",
-       "shortName": "P. Torres",
-       "jersey": "14",
+       "espnId": "281125",
+       "name": "Ian Maatsen",
+       "shortName": "I. Maatsen",
+       "jersey": "22",
        "doubtful": false,
        "chance": 100,
        "news": "",
@@ -406,12 +406,6 @@
      },
      {
       "in": "Ian Maatsen",
-      "out": "Aaron Wan-Bissaka",
-      "kind": "unavailable",
-      "reason": "Hamstring injury - Expected back 21 Nov"
-     },
-     {
-      "in": "Pau Torres",
       "out": "Matty Cash",
       "kind": "unavailable",
       "reason": "Suspended until 21 Nov"
@@ -614,9 +608,9 @@
        "name": "Ezri Konsa",
        "shortName": "E. Konsa",
        "jersey": "15",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Knee injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1116,13 +1110,13 @@
     "lineup": [
      [
       {
-       "espnId": "332343",
-       "name": "Mike Penders",
-       "shortName": "M. Penders",
-       "jersey": "39",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "espnId": "158626",
+       "name": "Emiliano Martínez",
+       "shortName": "E. Martínez",
+       "jersey": "1",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Head injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -1184,9 +1178,9 @@
        "name": "Moisés Caicedo",
        "shortName": "M. Caicedo",
        "jersey": "25",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Calf injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -1237,12 +1231,6 @@
     ],
     "changes": [
      {
-      "in": "Mike Penders",
-      "out": "Emiliano Martínez",
-      "kind": "unavailable",
-      "reason": "Head injury - Unknown return date"
-     },
-     {
       "in": "Wesley Fofana",
       "out": "Maxence Lacroix",
       "kind": "unavailable",
@@ -1290,10 +1278,10 @@
        "returning": false
       },
       {
-       "espnId": "290076",
-       "name": "Destiny Udogie",
-       "shortName": "D. Udogie",
-       "jersey": "13",
+       "espnId": "231198",
+       "name": "Tosin Adarabioyo",
+       "shortName": "T. Adarabioyo",
+       "jersey": "4",
        "doubtful": false,
        "chance": 100,
        "news": "",
@@ -1393,12 +1381,6 @@
       "out": "Mohammed Kudus",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
-     },
-     {
-      "in": "Destiny Udogie",
-      "out": "Tosin Adarabioyo",
-      "kind": "unavailable",
-      "reason": "Calf injury - Unknown return date"
      }
     ],
     "basedOn": 5
@@ -2237,13 +2219,13 @@
        "returning": false
       },
       {
-       "espnId": "239350",
-       "name": "Noussair Mazraoui",
-       "shortName": "N. Mazraoui",
-       "jersey": "3",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "espnId": "366781",
+       "name": "Patrick Dorgu",
+       "shortName": "P. Dorgu",
+       "jersey": "13",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Hamstring injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -2311,14 +2293,14 @@
        "returning": false
       },
       {
-       "espnId": "230945",
-       "name": "Marcus Rashford",
-       "shortName": "M. Rashford",
-       "jersey": "9",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hip injury - 75% chance of playing",
-       "returning": true
+       "espnId": "291630",
+       "name": "Amad Diallo",
+       "shortName": "A. Diallo",
+       "jersey": "16",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
       }
      ],
      [
@@ -2342,13 +2324,7 @@
       "reason": "Usual starter (4 of last 5 matches)"
      },
      {
-      "in": "Marcus Rashford",
-      "out": "Amad Diallo",
-      "kind": "regular",
-      "reason": "Usual starter (3 of last 5 matches)"
-     },
-     {
-      "in": "Noussair Mazraoui",
+      "in": "Patrick Dorgu",
       "out": "Lisandro Martínez",
       "kind": "unavailable",
       "reason": "Suspended until 22 Nov"
@@ -2437,14 +2413,14 @@
        "returning": false
       },
       {
-       "espnId": "223452",
-       "name": "Lewis Cook",
-       "shortName": "L. Cook",
-       "jersey": "4",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
+       "espnId": "314790",
+       "name": "Alex Scott",
+       "shortName": "A. Scott",
+       "jersey": "8",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Thigh injury - 75% chance of playing",
+       "returning": true
       },
       {
        "espnId": "93435",
@@ -2480,7 +2456,14 @@
       }
      ]
     ],
-    "changes": [],
+    "changes": [
+     {
+      "in": "Alex Scott",
+      "out": "Lewis Cook",
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
+     }
+    ],
     "basedOn": 5
    }
   },
