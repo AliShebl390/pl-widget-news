@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T23:12:47Z",
+ "generatedAt": "2026-11-07T16:32:06Z",
  "event": null,
  "matches": {
   "77": {
@@ -1565,9 +1565,9 @@
        "name": "Lewis Miley",
        "shortName": "L. Miley",
        "jersey": "67",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Muscular injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -1619,9 +1619,9 @@
        "name": "Matias Fernandez-Pardo",
        "shortName": "M. Fernandez-Pardo",
        "jersey": "20",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Illness - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -2715,9 +2715,9 @@
        "name": "Noah Okafor",
        "shortName": "N. Okafor",
        "jersey": "19",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Thigh injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -2737,9 +2737,9 @@
        "name": "Dominic Calvert-Lewin",
        "shortName": "D. Calvert-Lewin",
        "jersey": "9",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Foot injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ]
