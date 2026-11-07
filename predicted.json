@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T16:32:06Z",
+ "generatedAt": "2026-11-07T20:55:12Z",
  "event": null,
  "matches": {
   "77": {
@@ -175,8 +175,8 @@
       },
       {
        "espnId": "338876",
-       "name": "Jair Paula",
-       "shortName": "Jair Paula",
+       "name": "Jair Cunha",
+       "shortName": "J. Cunha",
        "jersey": "23",
        "doubtful": false,
        "chance": 100,
@@ -1071,9 +1071,9 @@
        "name": "Josh King",
        "shortName": "J. King",
        "jersey": "24",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Groin injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -1739,12 +1739,12 @@
        "returning": false
       },
       {
-       "espnId": "357145",
-       "name": "Elliot Stroud",
-       "shortName": "E. Stroud",
-       "jersey": "21",
+       "espnId": "153613",
+       "name": "Matt Crooks",
+       "shortName": "M. Crooks",
+       "jersey": "25",
        "doubtful": false,
-       "chance": null,
+       "chance": 100,
        "news": "",
        "returning": false
       },
@@ -1784,12 +1784,6 @@
       "out": "Lucas Herrington",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
-     },
-     {
-      "in": "Elliot Stroud",
-      "out": "Matt Crooks",
-      "kind": "unavailable",
-      "reason": "Suspended until 22 Nov"
      }
     ],
     "basedOn": 5
