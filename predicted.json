@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T15:15:53Z",
+ "generatedAt": "2026-11-08T19:45:40Z",
  "event": null,
  "matches": {
   "77": {
@@ -320,10 +320,10 @@
        "returning": false
       },
       {
-       "espnId": "281125",
-       "name": "Ian Maatsen",
-       "shortName": "I. Maatsen",
-       "jersey": "22",
+       "espnId": "234698",
+       "name": "Matty Cash",
+       "shortName": "M. Cash",
+       "jersey": "2",
        "doubtful": false,
        "chance": 100,
        "news": "",
@@ -403,12 +403,6 @@
       "out": "Alysson",
       "kind": "regular",
       "reason": "Usual starter (4 of last 5 matches)"
-     },
-     {
-      "in": "Ian Maatsen",
-      "out": "Matty Cash",
-      "kind": "unavailable",
-      "reason": "Suspended until 21 Nov"
      }
     ],
     "basedOn": 5
@@ -2219,13 +2213,13 @@
        "returning": false
       },
       {
-       "espnId": "366781",
-       "name": "Patrick Dorgu",
-       "shortName": "P. Dorgu",
-       "jersey": "13",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hamstring injury - 75% chance of playing",
+       "espnId": "233937",
+       "name": "Lisandro Martínez",
+       "shortName": "L. Martínez",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -2322,12 +2316,6 @@
       "out": "Carlos Baleba",
       "kind": "regular",
       "reason": "Usual starter (4 of last 5 matches)"
-     },
-     {
-      "in": "Patrick Dorgu",
-      "out": "Lisandro Martínez",
-      "kind": "unavailable",
-      "reason": "Suspended until 22 Nov"
      }
     ],
     "basedOn": 5
@@ -2495,12 +2483,12 @@
        "returning": false
       },
       {
-       "espnId": "290207",
-       "name": "Trai Hume",
-       "shortName": "T. Hume",
-       "jersey": "32",
+       "espnId": "215401",
+       "name": "Omar Alderete",
+       "shortName": "O. Alderete",
+       "jersey": "15",
        "doubtful": false,
-       "chance": null,
+       "chance": 100,
        "news": "",
        "returning": false
       },
@@ -2610,12 +2598,6 @@
       "out": "Tymur Tutierov",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
-     },
-     {
-      "in": "Trai Hume",
-      "out": "Omar Alderete",
-      "kind": "unavailable",
-      "reason": "Suspended until 21 Nov"
      }
     ],
     "basedOn": 5
