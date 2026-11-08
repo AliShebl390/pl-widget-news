@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T00:40:57Z",
+ "generatedAt": "2026-11-08T15:15:53Z",
  "event": null,
  "matches": {
   "77": {
@@ -1156,9 +1156,9 @@
        "name": "Josh Acheampong",
        "shortName": "J. Acheampong",
        "jersey": "34",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -1168,9 +1168,9 @@
        "name": "Jordan Henderson",
        "shortName": "J. Henderson",
        "jersey": "14",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Illness - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1178,9 +1178,9 @@
        "name": "Moisés Caicedo",
        "shortName": "M. Caicedo",
        "jersey": "25",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Calf injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -1901,12 +1901,12 @@
      ],
      [
       {
-       "espnId": "301894",
-       "name": "Igor Thiago",
-       "shortName": "I. Thiago",
-       "jersey": "9",
+       "espnId": "308932",
+       "name": "Mikkel Damsgaard",
+       "shortName": "M. Damsgaard",
+       "jersey": "24",
        "doubtful": false,
-       "chance": null,
+       "chance": 100,
        "news": "",
        "returning": false
       }
@@ -1924,6 +1924,12 @@
       "out": "Sepp van den Berg",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
+     },
+     {
+      "in": "Mikkel Damsgaard",
+      "out": "Igor Thiago",
+      "kind": "unavailable",
+      "reason": "Suspended until 5 Dec"
      }
     ],
     "basedOn": 5
@@ -2411,9 +2417,9 @@
        "name": "Alex Scott",
        "shortName": "A. Scott",
        "jersey": "8",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Thigh injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": true
       },
       {
@@ -2513,9 +2519,9 @@
        "name": "Nordi Mukiele",
        "shortName": "N. Mukiele",
        "jersey": "20",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Concussion - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -2535,9 +2541,9 @@
        "name": "Granit Xhaka",
        "shortName": "G. Xhaka",
        "jersey": "34",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -2667,9 +2673,9 @@
        "name": "Gabriel Gudmundsson",
        "shortName": "G. Gudmundsson",
        "jersey": "3",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Hamstring injury - 75% chance of playing",
        "returning": false
       },
       {
