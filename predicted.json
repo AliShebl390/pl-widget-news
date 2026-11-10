@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T23:45:25Z",
+ "generatedAt": "2026-11-10T01:35:31Z",
  "event": null,
  "matches": {
   "77": {
@@ -1065,9 +1065,9 @@
        "name": "Josh King",
        "shortName": "J. King",
        "jersey": "24",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Groin injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1961,9 +1961,9 @@
        "name": "Virgil van Dijk",
        "shortName": "V. van Dijk",
        "jersey": "4",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       },
       {
