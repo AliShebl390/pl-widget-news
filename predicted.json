@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T01:35:31Z",
+ "generatedAt": "2026-11-10T17:53:41Z",
  "event": null,
  "matches": {
   "77": {
@@ -2573,9 +2573,9 @@
        "name": "Brian Brobbey",
        "shortName": "B. Brobbey",
        "jersey": "9",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Muscular injury - 75% chance of playing",
        "returning": true
       }
      ]
