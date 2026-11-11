@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T23:25:47Z",
+ "generatedAt": "2026-11-11T06:30:47Z",
  "event": null,
  "matches": {
   "77": {
@@ -2227,9 +2227,9 @@
        "name": "Harry Maguire",
        "shortName": "H. Maguire",
        "jersey": "5",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Back injury - 75% chance of playing",
        "returning": false
       },
       {
