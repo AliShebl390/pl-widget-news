@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T06:30:47Z",
+ "generatedAt": "2026-11-11T15:16:42Z",
  "event": null,
  "matches": {
   "77": {
@@ -1498,9 +1498,9 @@
        "name": "Jørgen Strand Larsen",
        "shortName": "J. Larsen",
        "jersey": "22",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Ankle injury - 75% chance of playing",
        "returning": false
       }
      ]
