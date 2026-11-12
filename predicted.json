@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T15:16:42Z",
+ "generatedAt": "2026-11-12T19:57:50Z",
  "event": null,
  "matches": {
   "77": {
@@ -368,9 +368,9 @@
        "name": "Johan Manzambi",
        "shortName": "J. Manzambi",
        "jersey": "44",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Calf injury - 75% chance of playing",
        "returning": false
       },
       {
