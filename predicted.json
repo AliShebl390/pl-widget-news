@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T19:57:50Z",
+ "generatedAt": "2026-11-14T18:08:50Z",
  "event": null,
  "matches": {
   "77": {
@@ -2120,9 +2120,9 @@
        "name": "Chema Andrés",
        "shortName": "C. Andrés",
        "jersey": "14",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Hip injury - 75% chance of playing",
        "returning": false
       },
       {
