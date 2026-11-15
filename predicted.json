@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T18:08:50Z",
+ "generatedAt": "2026-11-15T10:59:25Z",
  "event": null,
  "matches": {
   "77": {
@@ -324,9 +324,9 @@
        "name": "Matty Cash",
        "shortName": "M. Cash",
        "jersey": "2",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Concussion - 75% chance of playing",
        "returning": false
       }
      ],
