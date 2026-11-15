@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T10:59:25Z",
+ "generatedAt": "2026-11-15T17:45:03Z",
  "event": null,
  "matches": {
   "77": {
@@ -200,9 +200,9 @@
        "name": "Xaver Schlager",
        "shortName": "X. Schlager",
        "jersey": "21",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Thigh injury - 75% chance of playing",
        "returning": false
       },
       {
