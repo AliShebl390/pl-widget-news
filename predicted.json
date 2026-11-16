@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T17:45:03Z",
+ "generatedAt": "2026-11-16T22:08:55Z",
  "event": null,
  "matches": {
   "77": {
@@ -190,9 +190,9 @@
        "name": "Neco Williams",
        "shortName": "N. Williams",
        "jersey": "3",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Ankle injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -1675,9 +1675,9 @@
        "name": "Nobel Mendy",
        "shortName": "N. Mendy",
        "jersey": "32",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Knee injury - 75% chance of playing",
        "returning": true
       },
       {
