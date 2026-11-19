@@ -1,142 +1,9 @@
 {
- "generatedAt": "2026-11-16T22:08:55Z",
+ "generatedAt": "2026-11-19T21:39:57Z",
  "event": null,
  "matches": {
   "77": {
-   "home": {
-    "formation": "3-4-2-1",
-    "lineup": [
-     [
-      {
-       "espnId": "168746",
-       "name": "Christian Walton",
-       "shortName": "C. Walton",
-       "jersey": "28",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
-      }
-     ],
-     [
-      {
-       "espnId": "291174",
-       "name": "Jacob Greaves",
-       "shortName": "J. Greaves",
-       "jersey": "24",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
-      },
-      {
-       "espnId": "230963",
-       "name": "Issa Diop",
-       "shortName": "I. Diop",
-       "jersey": "6",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
-      },
-      {
-       "espnId": "243440",
-       "name": "Dara O'Shea",
-       "shortName": "D. O'Shea",
-       "jersey": "26",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
-      }
-     ],
-     [
-      {
-       "espnId": "283086",
-       "name": "Leif Davis",
-       "shortName": "L. Davis",
-       "jersey": "3",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
-      },
-      {
-       "espnId": "228393",
-       "name": "Exequiel Palacios",
-       "shortName": "E. Palacios",
-       "jersey": "25",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
-      },
-      {
-       "espnId": "256607",
-       "name": "Florentino",
-       "shortName": "Florentino",
-       "jersey": "12",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
-       "returning": false
-      },
-      {
-       "espnId": "222300",
-       "name": "Sasa Lukic",
-       "shortName": "S. Lukic",
-       "jersey": "23",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
-       "returning": true
-      }
-     ],
-     [
-      {
-       "espnId": "20975",
-       "name": "Julio Enciso",
-       "shortName": "J. Enciso",
-       "jersey": "10",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
-       "returning": false
-      },
-      {
-       "espnId": "286347",
-       "name": "Daizen Maeda",
-       "shortName": "D. Maeda",
-       "jersey": "38",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
-       "returning": false
-      }
-     ],
-     [
-      {
-       "espnId": "322654",
-       "name": "Emersonn",
-       "shortName": "Emersonn",
-       "jersey": "19",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
-       "returning": false
-      }
-     ]
-    ],
-    "changes": [
-     {
-      "in": "Sasa Lukic",
-      "out": "Abdoul Ouattara",
-      "kind": "regular",
-      "reason": "Usual starter (4 of last 5 matches)"
-     }
-    ],
-    "basedOn": 5
-   },
+   "home": null,
    "away": {
     "formation": "3-4-2-1",
     "lineup": [
@@ -885,8 +752,8 @@
        "shortName": "B. Thomas",
        "jersey": "4",
        "doubtful": true,
-       "chance": 50,
-       "news": "Calf injury - 50% chance of playing",
+       "chance": 75,
+       "news": "Calf injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -916,9 +783,9 @@
        "name": "Caleb Yirenkyi",
        "shortName": "C. Yirenkyi",
        "jersey": "8",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -1172,9 +1039,9 @@
        "name": "Moisés Caicedo",
        "shortName": "M. Caicedo",
        "jersey": "25",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -2525,13 +2392,13 @@
        "returning": false
       },
       {
-       "espnId": "149981",
-       "name": "Granit Xhaka",
-       "shortName": "G. Xhaka",
-       "jersey": "34",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Calf injury - 75% chance of playing",
+       "espnId": "290207",
+       "name": "Trai Hume",
+       "shortName": "T. Hume",
+       "jersey": "32",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
        "returning": false
       }
      ],
@@ -2569,14 +2436,14 @@
      ],
      [
       {
-       "espnId": "282229",
-       "name": "Brian Brobbey",
-       "shortName": "B. Brobbey",
-       "jersey": "9",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Muscular injury - 75% chance of playing",
-       "returning": true
+       "espnId": "387460",
+       "name": "Tymur Tutierov",
+       "shortName": "T. Tutierov",
+       "jersey": "57",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
       }
      ]
     ],
@@ -2594,10 +2461,10 @@
       "reason": "Usual starter (4 of last 5 matches)"
      },
      {
-      "in": "Brian Brobbey",
-      "out": "Tymur Tutierov",
-      "kind": "regular",
-      "reason": "Usual starter (3 of last 5 matches)"
+      "in": "Trai Hume",
+      "out": "Granit Xhaka",
+      "kind": "unavailable",
+      "reason": "Calf injury - Unknown return date"
      }
     ],
     "basedOn": 5
@@ -2655,9 +2522,9 @@
        "name": "Gabriel Gudmundsson",
        "shortName": "G. Gudmundsson",
        "jersey": "3",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hamstring injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -2707,9 +2574,9 @@
        "name": "Anton Stach",
        "shortName": "A. Stach",
        "jersey": "18",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Foot injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
