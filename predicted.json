@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T12:58:29Z",
+ "generatedAt": "2026-11-20T21:09:46Z",
  "event": null,
  "matches": {
   "77": {
@@ -294,9 +294,9 @@
        "name": "Aaron Wan-Bissaka",
        "shortName": "A. Wan-Bissaka",
        "jersey": "29",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Hamstring injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -320,13 +320,13 @@
        "returning": false
       },
       {
-       "espnId": "234698",
-       "name": "Matty Cash",
-       "shortName": "M. Cash",
-       "jersey": "2",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Concussion - 75% chance of playing",
+       "espnId": "281125",
+       "name": "Ian Maatsen",
+       "shortName": "I. Maatsen",
+       "jersey": "22",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -368,9 +368,9 @@
        "name": "Johan Manzambi",
        "shortName": "J. Manzambi",
        "jersey": "44",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Calf injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -403,6 +403,12 @@
       "out": "Alysson",
       "kind": "regular",
       "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Ian Maatsen",
+      "out": "Matty Cash",
+      "kind": "unavailable",
+      "reason": "Concussion - Expected back 28 Nov"
      }
     ],
     "basedOn": 5
@@ -428,9 +434,9 @@
        "name": "Josko Gvardiol",
        "shortName": "J. Gvardiol",
        "jersey": "24",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": true
       },
       {
@@ -440,7 +446,7 @@
        "jersey": "6",
        "doubtful": true,
        "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "news": "Hip injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -458,9 +464,9 @@
        "name": "Matheus Nunes",
        "shortName": "M. Nunes",
        "jersey": "27",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 50,
+       "news": "Unspecified injury - 50% chance of playing",
        "returning": false
       }
      ],
@@ -1108,9 +1114,9 @@
        "name": "Emiliano Martínez",
        "shortName": "E. Martínez",
        "jersey": "1",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Head injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -1150,9 +1156,9 @@
        "name": "Josh Acheampong",
        "shortName": "J. Acheampong",
        "jersey": "34",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -1172,9 +1178,9 @@
        "name": "Moisés Caicedo",
        "shortName": "M. Caicedo",
        "jersey": "25",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -1234,7 +1240,7 @@
       "in": "Malo Gusto",
       "out": "Jorrel Hato",
       "kind": "unavailable",
-      "reason": "Unspecified injury - Unknown return date"
+      "reason": "Back injury - Unknown return date"
      },
      {
       "in": "Danny Welbeck",
@@ -1272,10 +1278,10 @@
        "returning": false
       },
       {
-       "espnId": "231198",
-       "name": "Tosin Adarabioyo",
-       "shortName": "T. Adarabioyo",
-       "jersey": "4",
+       "espnId": "290076",
+       "name": "Destiny Udogie",
+       "shortName": "D. Udogie",
+       "jersey": "13",
        "doubtful": false,
        "chance": 100,
        "news": "",
@@ -1375,6 +1381,12 @@
       "out": "Mohammed Kudus",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
+     },
+     {
+      "in": "Destiny Udogie",
+      "out": "Tosin Adarabioyo",
+      "kind": "unavailable",
+      "reason": "Calf injury - Expected back 29 Nov"
      }
     ],
     "basedOn": 5
@@ -1675,9 +1687,9 @@
        "name": "Nobel Mendy",
        "shortName": "N. Mendy",
        "jersey": "32",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Knee injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": true
       },
       {
@@ -1747,9 +1759,9 @@
        "name": "Mohamed Belloumi",
        "shortName": "M. Belloumi",
        "jersey": "10",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hamstring injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -1961,9 +1973,9 @@
        "name": "Virgil van Dijk",
        "shortName": "V. van Dijk",
        "jersey": "4",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
