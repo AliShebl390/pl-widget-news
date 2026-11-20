@@ -1,9 +1,142 @@
 {
- "generatedAt": "2026-11-19T21:39:57Z",
+ "generatedAt": "2026-11-20T03:21:41Z",
  "event": null,
  "matches": {
   "77": {
-   "home": null,
+   "home": {
+    "formation": "3-4-2-1",
+    "lineup": [
+     [
+      {
+       "espnId": "168746",
+       "name": "Christian Walton",
+       "shortName": "C. Walton",
+       "jersey": "28",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "291174",
+       "name": "Jacob Greaves",
+       "shortName": "J. Greaves",
+       "jersey": "24",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "230963",
+       "name": "Issa Diop",
+       "shortName": "I. Diop",
+       "jersey": "6",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "243440",
+       "name": "Dara O'Shea",
+       "shortName": "D. O'Shea",
+       "jersey": "26",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "283086",
+       "name": "Leif Davis",
+       "shortName": "L. Davis",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "228393",
+       "name": "Exequiel Palacios",
+       "shortName": "E. Palacios",
+       "jersey": "25",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "256607",
+       "name": "Florentino",
+       "shortName": "Florentino",
+       "jersey": "12",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "222300",
+       "name": "Sasa Lukic",
+       "shortName": "S. Lukic",
+       "jersey": "23",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": true
+      }
+     ],
+     [
+      {
+       "espnId": "20975",
+       "name": "Julio Enciso",
+       "shortName": "J. Enciso",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "286347",
+       "name": "Daizen Maeda",
+       "shortName": "D. Maeda",
+       "jersey": "38",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "322654",
+       "name": "Emersonn",
+       "shortName": "Emersonn",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Sasa Lukic",
+      "out": "Abdoul Ouattara",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     }
+    ],
+    "basedOn": 5
+   },
    "away": {
     "formation": "3-4-2-1",
     "lineup": [
