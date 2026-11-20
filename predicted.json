@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T03:21:41Z",
+ "generatedAt": "2026-11-20T12:58:29Z",
  "event": null,
  "matches": {
   "77": {
@@ -702,7 +702,7 @@
       "in": "Eberechi Eze",
       "out": "Bukayo Saka",
       "kind": "unavailable",
-      "reason": "Thigh injury - Unknown return date"
+      "reason": "Thigh injury - Expected back 20 Dec"
      }
     ],
     "basedOn": 5
@@ -2120,9 +2120,9 @@
        "name": "Chema Andrés",
        "shortName": "C. Andrés",
        "jersey": "14",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hip injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
