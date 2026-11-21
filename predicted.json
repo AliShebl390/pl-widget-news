@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T17:59:55Z",
+ "generatedAt": "2026-11-21T23:21:46Z",
  "event": null,
  "matches": {
   "77": {
@@ -576,9 +576,9 @@
        "name": "David Raya",
        "shortName": "D. Raya",
        "jersey": "1",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Shoulder injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -1304,9 +1304,9 @@
        "name": "Sandro Tonali",
        "shortName": "S. Tonali",
        "jersey": "16",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Illness - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -1548,9 +1548,9 @@
        "name": "Lewis Hall",
        "shortName": "L. Hall",
        "jersey": "3",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       },
       {
