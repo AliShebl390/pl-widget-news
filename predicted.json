@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T21:09:46Z",
+ "generatedAt": "2026-11-21T17:59:55Z",
  "event": null,
  "matches": {
   "77": {
@@ -56,9 +56,9 @@
        "name": "Leif Davis",
        "shortName": "L. Davis",
        "jersey": "3",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -190,9 +190,9 @@
        "name": "Neco Williams",
        "shortName": "N. Williams",
        "jersey": "3",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Ankle injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -200,9 +200,9 @@
        "name": "Xaver Schlager",
        "shortName": "X. Schlager",
        "jersey": "21",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Thigh injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -314,9 +314,9 @@
        "name": "Victor Lindelöf",
        "shortName": "V. Lindelöf",
        "jersey": "3",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Illness - 75% chance of playing",
        "returning": false
       },
       {
@@ -444,9 +444,9 @@
        "name": "Marc Guéhi",
        "shortName": "M. Guéhi",
        "jersey": "6",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Hip injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -890,9 +890,9 @@
        "name": "Bobby Thomas",
        "shortName": "B. Thomas",
        "jersey": "4",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Calf injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -1178,9 +1178,9 @@
        "name": "Moisés Caicedo",
        "shortName": "M. Caicedo",
        "jersey": "25",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Back injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -1304,9 +1304,9 @@
        "name": "Sandro Tonali",
        "shortName": "S. Tonali",
        "jersey": "16",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Illness - 75% chance of playing",
        "returning": false
       }
      ],
@@ -1484,12 +1484,12 @@
      ],
      [
       {
-       "espnId": "297370",
-       "name": "Yéremy Pino",
-       "shortName": "Y. Pino",
-       "jersey": "10",
+       "espnId": "259486",
+       "name": "Eddie Nketiah",
+       "shortName": "E. Nketiah",
+       "jersey": "9",
        "doubtful": false,
-       "chance": null,
+       "chance": 100,
        "news": "",
        "returning": false
       },
@@ -1510,14 +1510,21 @@
        "name": "Jørgen Strand Larsen",
        "shortName": "J. Larsen",
        "jersey": "22",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Ankle injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ]
     ],
-    "changes": [],
+    "changes": [
+     {
+      "in": "Eddie Nketiah",
+      "out": "Yéremy Pino",
+      "kind": "unavailable",
+      "reason": "Suspended until 2 Dec"
+     }
+    ],
     "basedOn": 5
    },
    "away": {
@@ -2505,12 +2512,12 @@
        "returning": false
       },
       {
-       "espnId": "250543",
-       "name": "Kevin Danso",
-       "shortName": "K. Danso",
-       "jersey": "4",
+       "espnId": "290207",
+       "name": "Trai Hume",
+       "shortName": "T. Hume",
+       "jersey": "32",
        "doubtful": false,
-       "chance": 100,
+       "chance": null,
        "news": "",
        "returning": false
       },
@@ -2537,10 +2544,10 @@
        "returning": false
       },
       {
-       "espnId": "290207",
-       "name": "Trai Hume",
-       "shortName": "T. Hume",
-       "jersey": "32",
+       "espnId": "356295",
+       "name": "Chris Rigg",
+       "shortName": "C. Rigg",
+       "jersey": "11",
        "doubtful": false,
        "chance": null,
        "news": "",
@@ -2607,6 +2614,12 @@
      },
      {
       "in": "Trai Hume",
+      "out": "Kevin Danso",
+      "kind": "unavailable",
+      "reason": "Ineligible to face parent club - Expected back 2 Dec"
+     },
+     {
+      "in": "Chris Rigg",
       "out": "Granit Xhaka",
       "kind": "unavailable",
       "reason": "Calf injury - Unknown return date"
