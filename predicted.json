@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T15:22:22Z",
+ "generatedAt": "2026-11-22T21:49:12Z",
  "event": null,
  "matches": {
   "77": {
@@ -2246,18 +2246,18 @@
        "name": "Harry Maguire",
        "shortName": "H. Maguire",
        "jersey": "5",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Back injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
-       "espnId": "340206",
-       "name": "Leny Yoro",
-       "shortName": "L. Yoro",
-       "jersey": "15",
+       "espnId": "366781",
+       "name": "Patrick Dorgu",
+       "shortName": "P. Dorgu",
+       "jersey": "13",
        "doubtful": false,
-       "chance": null,
+       "chance": 100,
        "news": "",
        "returning": false
       }
@@ -2335,6 +2335,12 @@
       "out": "Carlos Baleba",
       "kind": "regular",
       "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Patrick Dorgu",
+      "out": "Leny Yoro",
+      "kind": "unavailable",
+      "reason": "Suspended until 2 Dec"
      }
     ],
     "basedOn": 5
