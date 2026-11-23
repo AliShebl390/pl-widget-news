@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T21:49:12Z",
+ "generatedAt": "2026-11-23T12:52:56Z",
  "event": null,
  "matches": {
   "77": {
@@ -320,13 +320,13 @@
        "returning": false
       },
       {
-       "espnId": "281125",
-       "name": "Ian Maatsen",
-       "shortName": "I. Maatsen",
-       "jersey": "22",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "espnId": "234698",
+       "name": "Matty Cash",
+       "shortName": "M. Cash",
+       "jersey": "2",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Concussion - 75% chance of playing",
        "returning": false
       }
      ],
@@ -403,12 +403,6 @@
       "out": "Alysson",
       "kind": "regular",
       "reason": "Usual starter (4 of last 5 matches)"
-     },
-     {
-      "in": "Ian Maatsen",
-      "out": "Matty Cash",
-      "kind": "unavailable",
-      "reason": "Concussion - Expected back 28 Nov"
      }
     ],
     "basedOn": 5
@@ -464,9 +458,9 @@
        "name": "Matheus Nunes",
        "shortName": "M. Nunes",
        "jersey": "27",
-       "doubtful": true,
-       "chance": 50,
-       "news": "Unspecified injury - 50% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
