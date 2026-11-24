@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T12:52:56Z",
+ "generatedAt": "2026-11-24T00:55:37Z",
  "event": null,
  "matches": {
   "77": {
@@ -571,8 +571,8 @@
        "shortName": "D. Raya",
        "jersey": "1",
        "doubtful": true,
-       "chance": 75,
-       "news": "Shoulder injury - 75% chance of playing",
+       "chance": 50,
+       "news": "Shoulder injury - 50% chance of playing",
        "returning": false
       }
      ],
@@ -744,12 +744,12 @@
        "returning": false
       },
       {
-       "espnId": "155226",
-       "name": "James Tarkowski",
-       "shortName": "J. Tarkowski",
-       "jersey": "6",
+       "espnId": "311963",
+       "name": "Merlin Röhl",
+       "shortName": "M. Röhl",
+       "jersey": "34",
        "doubtful": false,
-       "chance": null,
+       "chance": 100,
        "news": "",
        "returning": false
       },
@@ -837,6 +837,12 @@
       "out": "Merlin Röhl",
       "kind": "regular",
       "reason": "Usual starter (4 of last 5 matches)"
+     },
+     {
+      "in": "Merlin Röhl",
+      "out": "James Tarkowski",
+      "kind": "unavailable",
+      "reason": "Suspended until 13 Dec"
      }
     ],
     "basedOn": 5
