@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T10:58:41Z",
+ "generatedAt": "2026-11-24T21:15:55Z",
  "event": null,
  "matches": {
   "77": {
@@ -137,7 +137,140 @@
     ],
     "basedOn": 5
    },
-   "away": null
+   "away": {
+    "formation": "3-4-2-1",
+    "lineup": [
+     [
+      {
+       "espnId": "179497",
+       "name": "Matz Sels",
+       "shortName": "M. Sels",
+       "jersey": "26",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "338894",
+       "name": "Murillo",
+       "shortName": "Murillo",
+       "jersey": "5",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "343964",
+       "name": "Ousmane Diomande",
+       "shortName": "O. Diomande",
+       "jersey": "2",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "338876",
+       "name": "Jair Cunha",
+       "shortName": "J. Cunha",
+       "jersey": "23",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "291638",
+       "name": "Neco Williams",
+       "shortName": "N. Williams",
+       "jersey": "3",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "238886",
+       "name": "Xaver Schlager",
+       "shortName": "X. Schlager",
+       "jersey": "21",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "298518",
+       "name": "James McAtee",
+       "shortName": "J. McAtee",
+       "jersey": "24",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "146679",
+       "name": "Daniel Muñoz",
+       "shortName": "D. Muñoz",
+       "jersey": "27",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ],
+     [
+      {
+       "espnId": "275842",
+       "name": "Dan Ndoye",
+       "shortName": "D. Ndoye",
+       "jersey": "14",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": false
+      },
+      {
+       "espnId": "243396",
+       "name": "Morgan Gibbs-White",
+       "shortName": "M. Gibbs-White",
+       "jersey": "10",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
+       "returning": true
+      }
+     ],
+     [
+      {
+       "espnId": "307114",
+       "name": "Liam Delap",
+       "shortName": "L. Delap",
+       "jersey": "19",
+       "doubtful": false,
+       "chance": null,
+       "news": "",
+       "returning": false
+      }
+     ]
+    ],
+    "changes": [
+     {
+      "in": "Morgan Gibbs-White",
+      "out": "Nicolás Domínguez",
+      "kind": "regular",
+      "reason": "Usual starter (4 of last 5 matches)"
+     }
+    ],
+    "basedOn": 5
+   }
   },
   "72": {
    "home": {
@@ -2119,14 +2252,14 @@
        "returning": false
       },
       {
-       "espnId": "366781",
-       "name": "Patrick Dorgu",
-       "shortName": "P. Dorgu",
-       "jersey": "13",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
-       "returning": false
+       "espnId": "167127",
+       "name": "Luke Shaw",
+       "shortName": "L. Shaw",
+       "jersey": "23",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
+       "returning": true
       }
      ],
      [
@@ -2204,10 +2337,10 @@
       "reason": "Usual starter (4 of last 5 matches)"
      },
      {
-      "in": "Patrick Dorgu",
+      "in": "Luke Shaw",
       "out": "Leny Yoro",
-      "kind": "unavailable",
-      "reason": "Suspended until 2 Dec"
+      "kind": "regular",
+      "reason": "Usual starter (3 of last 5 matches)"
      }
     ],
     "basedOn": 5
