@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T09:34:08Z",
+ "generatedAt": "2026-11-26T19:39:17Z",
  "event": null,
  "matches": {
   "77": {
@@ -1178,9 +1178,9 @@
        "name": "Moisés Caicedo",
        "shortName": "M. Caicedo",
        "jersey": "25",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Back injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
