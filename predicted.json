@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T00:24:41Z",
+ "generatedAt": "2026-11-26T09:34:08Z",
  "event": null,
  "matches": {
   "77": {
@@ -2054,9 +2054,9 @@
        "name": "Víctor Muñoz",
        "shortName": "V. Muñoz",
        "jersey": "23",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Knee injury - 75% chance of playing",
        "returning": false
       }
      ],
