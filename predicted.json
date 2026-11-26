@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T21:15:55Z",
+ "generatedAt": "2026-11-26T00:24:41Z",
  "event": null,
  "matches": {
   "77": {
@@ -2097,9 +2097,9 @@
        "name": "Olivier Boscagli",
        "shortName": "O. Boscagli",
        "jersey": "21",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Illness - 75% chance of playing",
        "returning": false
       },
       {
@@ -2256,9 +2256,9 @@
        "name": "Luke Shaw",
        "shortName": "L. Shaw",
        "jersey": "23",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": true
       }
      ],
