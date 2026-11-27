@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:39:17Z",
+ "generatedAt": "2026-11-27T12:29:12Z",
  "event": null,
  "matches": {
   "77": {
@@ -2512,9 +2512,9 @@
        "name": "Omar Alderete",
        "shortName": "O. Alderete",
        "jersey": "15",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Unspecified injury - 75% chance of playing",
        "returning": false
       },
       {
