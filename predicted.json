@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T12:29:12Z",
+ "generatedAt": "2026-11-27T21:59:30Z",
  "event": null,
  "matches": {
   "77": {
@@ -56,9 +56,9 @@
        "name": "Leif Davis",
        "shortName": "L. Davis",
        "jersey": "3",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Calf injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -324,9 +324,9 @@
        "name": "Matty Cash",
        "shortName": "M. Cash",
        "jersey": "2",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Concussion - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       }
      ],
@@ -571,8 +571,8 @@
        "shortName": "D. Raya",
        "jersey": "1",
        "doubtful": true,
-       "chance": 50,
-       "news": "Shoulder injury - 50% chance of playing",
+       "chance": 75,
+       "news": "Shoulder injury - 75% chance of playing",
        "returning": false
       }
      ],
@@ -1278,13 +1278,13 @@
        "returning": false
       },
       {
-       "espnId": "290076",
-       "name": "Destiny Udogie",
-       "shortName": "D. Udogie",
-       "jersey": "13",
-       "doubtful": false,
-       "chance": 100,
-       "news": "",
+       "espnId": "231198",
+       "name": "Tosin Adarabioyo",
+       "shortName": "T. Adarabioyo",
+       "jersey": "4",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Calf injury - 75% chance of playing",
        "returning": false
       },
       {
@@ -1381,12 +1381,6 @@
       "out": "Mohammed Kudus",
       "kind": "regular",
       "reason": "Usual starter (3 of last 5 matches)"
-     },
-     {
-      "in": "Destiny Udogie",
-      "out": "Tosin Adarabioyo",
-      "kind": "unavailable",
-      "reason": "Calf injury - Expected back 29 Nov"
      }
     ],
     "basedOn": 5
@@ -2290,9 +2284,9 @@
        "name": "Bruno Fernandes",
        "shortName": "B. Fernandes",
        "jersey": "8",
-       "doubtful": false,
-       "chance": null,
-       "news": "",
+       "doubtful": true,
+       "chance": 75,
+       "news": "Illness - 75% chance of playing",
        "returning": false
       },
       {
@@ -2512,9 +2506,9 @@
        "name": "Omar Alderete",
        "shortName": "O. Alderete",
        "jersey": "15",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Unspecified injury - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
