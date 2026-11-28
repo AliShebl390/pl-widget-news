@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T21:59:30Z",
+ "generatedAt": "2026-11-28T20:57:25Z",
  "event": null,
  "matches": {
   "77": {
@@ -2284,9 +2284,9 @@
        "name": "Bruno Fernandes",
        "shortName": "B. Fernandes",
        "jersey": "8",
-       "doubtful": true,
-       "chance": 75,
-       "news": "Illness - 75% chance of playing",
+       "doubtful": false,
+       "chance": 100,
+       "news": "",
        "returning": false
       },
       {
@@ -2706,10 +2706,10 @@
        "returning": false
       },
       {
-       "espnId": "243408",
-       "name": "Jayden Bogle",
-       "shortName": "J. Bogle",
-       "jersey": "2",
+       "espnId": "259653",
+       "name": "Brenden Aaronson",
+       "shortName": "B. Aaronson",
+       "jersey": "11",
        "doubtful": false,
        "chance": null,
        "news": "",
@@ -2751,7 +2751,14 @@
       }
      ]
     ],
-    "changes": [],
+    "changes": [
+     {
+      "in": "Brenden Aaronson",
+      "out": "Jayden Bogle",
+      "kind": "unavailable",
+      "reason": "Suspended until 5 Dec"
+     }
+    ],
     "basedOn": 5
    }
   }
